@@ -1,0 +1,4554 @@
+[
+  {
+    "City": "Agadir",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Afoulki",
+        "City": "Agadir",
+        "Lat": "30.4300493",
+        "Lon": "-9.5557854"
+      },
+      {
+        "Neighborhood": "Agadir Oufella",
+        "City": "Agadir",
+        "Lat": "30.4244851",
+        "Lon": "-9.6114672"
+      },
+      {
+        "Neighborhood": "Aghroud",
+        "City": "Agadir",
+        "Lat": "30.37257",
+        "Lon": "-9.5706879"
+      },
+      {
+        "Neighborhood": "Akhlij",
+        "City": "Agadir",
+        "Lat": "30.363466799999998",
+        "Lon": "-9.50981090898103"
+      },
+      {
+        "Neighborhood": "Al Farah",
+        "City": "Agadir",
+        "Lat": "30.3978989",
+        "Lon": "-9.5618732"
+      },
+      {
+        "Neighborhood": "Al Houda",
+        "City": "Agadir",
+        "Lat": "30.4034087",
+        "Lon": "-9.54039"
+      },
+      {
+        "Neighborhood": "Al Inbiaat",
+        "City": "Agadir",
+        "Lat": "30.4144758",
+        "Lon": "-9.5936877"
+      },
+      {
+        "Neighborhood": "Al Massira",
+        "City": "Agadir",
+        "Lat": "30.4143341",
+        "Lon": "-9.5702061"
+      },
+      {
+        "Neighborhood": "Al Qods",
+        "City": "Agadir",
+        "Lat": "30.4177442",
+        "Lon": "-9.5551085"
+      },
+      {
+        "Neighborhood": "Al Wifaq 1",
+        "City": "Agadir",
+        "Lat": "30.3929571",
+        "Lon": "-9.5637186"
+      },
+      {
+        "Neighborhood": "Al Wifaq 2",
+        "City": "Agadir",
+        "Lat": "30.3929571",
+        "Lon": "-9.5637186"
+      },
+      {
+        "Neighborhood": "Amsernate",
+        "City": "Agadir",
+        "Lat": "30.4152918",
+        "Lon": "-9.5754482"
+      },
+      {
+        "Neighborhood": "Anza",
+        "City": "Agadir",
+        "Lat": "30.4520064",
+        "Lon": "-9.6590808"
+      },
+      {
+        "Neighborhood": "Assaka",
+        "City": "Agadir",
+        "Lat": "30.3783766",
+        "Lon": "-9.5152871"
+      },
+      {
+        "Neighborhood": "Bensergao",
+        "City": "Agadir",
+        "Lat": "30.3886754",
+        "Lon": "-9.5694073"
+      },
+      {
+        "Neighborhood": "Chems Agadir",
+        "City": "Agadir",
+        "Lat": "31.5122508",
+        "Lon": "-9.7676901"
+      },
+      {
+        "Neighborhood": "Cite Charaf",
+        "City": "Agadir",
+        "Lat": "30.420319550000002",
+        "Lon": "-9.603321150000003"
+      },
+      {
+        "Neighborhood": "Cite Suisse",
+        "City": "Agadir",
+        "Lat": "30.4278023",
+        "Lon": "-9.5976738"
+      },
+      {
+        "Neighborhood": "Dakhla",
+        "City": "Agadir",
+        "Lat": "30.4107934",
+        "Lon": "-9.5495306"
+      },
+      {
+        "Neighborhood": "Dakhla Extension",
+        "City": "Agadir",
+        "Lat": "30.4052274",
+        "Lon": "-9.557644"
+      },
+      {
+        "Neighborhood": "El Hajeb",
+        "City": "Agadir",
+        "Lat": "30.376739",
+        "Lon": "-9.4954179"
+      },
+      {
+        "Neighborhood": "Ennahda",
+        "City": "Agadir",
+        "Lat": "30.4271745",
+        "Lon": "-9.584439"
+      },
+      {
+        "Neighborhood": "Founty",
+        "City": "Agadir",
+        "Lat": "30.3945833",
+        "Lon": "-9.5931204"
+      },
+      {
+        "Neighborhood": "Haut Anza",
+        "City": "Agadir",
+        "Lat": "30.4550002",
+        "Lon": "-9.6317217"
+      },
+      {
+        "Neighborhood": "Haut Founty",
+        "City": "Agadir",
+        "Lat": "30.399291",
+        "Lon": "-9.5784304"
+      },
+      {
+        "Neighborhood": "Iligh",
+        "City": "Agadir",
+        "Lat": "30.4413915",
+        "Lon": "-9.5851818"
+      },
+      {
+        "Neighborhood": "Les Amicales",
+        "City": "Agadir",
+        "Lat": "30.4313666",
+        "Lon": "-9.5791672"
+      },
+      {
+        "Neighborhood": "Najah",
+        "City": "Agadir",
+        "Lat": "30.4248759",
+        "Lon": "-9.580646897908943"
+      },
+      {
+        "Neighborhood": "Port",
+        "City": "Agadir",
+        "Lat": "31.5102815",
+        "Lon": "-9.77199"
+      },
+      {
+        "Neighborhood": "Quartier Industriel",
+        "City": "Agadir",
+        "Lat": "30.4185473",
+        "Lon": "-9.5830012"
+      },
+      {
+        "Neighborhood": "Riad Salam",
+        "City": "Agadir",
+        "Lat": "30.4096973",
+        "Lon": "-9.5762705"
+      },
+      {
+        "Neighborhood": "Salam",
+        "City": "Agadir",
+        "Lat": "30.4012452",
+        "Lon": "-9.5489513"
+      },
+      {
+        "Neighborhood": "Sidi Youssef",
+        "City": "Agadir",
+        "Lat": "30.4107817",
+        "Lon": "-9.5773793"
+      },
+      {
+        "Neighborhood": "Taddart",
+        "City": "Agadir",
+        "Lat": "30.4583937",
+        "Lon": "-9.6478334"
+      },
+      {
+        "Neighborhood": "Talborjt",
+        "City": "Agadir",
+        "Lat": "30.4237254",
+        "Lon": "-9.5905693"
+      },
+      {
+        "Neighborhood": "Tildi",
+        "City": "Agadir",
+        "Lat": "30.4455799",
+        "Lon": "-9.6035753"
+      },
+      {
+        "Neighborhood": "Tilila",
+        "City": "Agadir",
+        "Lat": "30.3984274",
+        "Lon": "-9.516003"
+      }
+    ]
+  },
+  {
+    "City": "Ain Harrouda",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "De La Ferme",
+        "City": "Ain Harrouda",
+        "Lat": "33.6482444",
+        "Lon": "-7.4757442"
+      },
+      {
+        "Neighborhood": "Harbili",
+        "City": "Ain Harrouda",
+        "Lat": "33.6361255",
+        "Lon": "-7.486129067962311"
+      },
+      {
+        "Neighborhood": "Zone Industrielle Zenata",
+        "City": "Ain Harrouda",
+        "Lat": "33.6535751",
+        "Lon": "-7.427623562962054"
+      }
+    ]
+  },
+  {
+    "City": "Ait Melloul",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Admin",
+        "City": "Ait Melloul",
+        "Lat": "30.3479615",
+        "Lon": "-9.4847592"
+      },
+      {
+        "Neighborhood": "Agdal",
+        "City": "Ait Melloul",
+        "Lat": "30.337579",
+        "Lon": "-9.5017308"
+      },
+      {
+        "Neighborhood": "Ait Oujrar",
+        "City": "Ait Melloul",
+        "Lat": "30.3532822",
+        "Lon": "-9.4942957"
+      },
+      {
+        "Neighborhood": "Al Mazar",
+        "City": "Ait Melloul",
+        "Lat": "30.3183878",
+        "Lon": "-9.5203033"
+      },
+      {
+        "Neighborhood": "Argana",
+        "City": "Ait Melloul",
+        "Lat": "30.3311295",
+        "Lon": "-9.4995582"
+      },
+      {
+        "Neighborhood": "Azrou",
+        "City": "Ait Melloul",
+        "Lat": "30.3608674",
+        "Lon": "-9.4596405"
+      },
+      {
+        "Neighborhood": "El Khattarate",
+        "City": "Ait Melloul",
+        "Lat": "30.3359169",
+        "Lon": "-9.5195675"
+      },
+      {
+        "Neighborhood": "Sidi Mimoun",
+        "City": "Ait Melloul",
+        "Lat": "30.3336853",
+        "Lon": "-9.5174378"
+      },
+      {
+        "Neighborhood": "Tamazart",
+        "City": "Ait Melloul",
+        "Lat": "30.3480237",
+        "Lon": "-9.5135711"
+      }
+    ]
+  },
+  {
+    "City": "Al Hoceima",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Bades",
+        "City": "Al Hoceima",
+        "Lat": "35.2446765",
+        "Lon": "-3.9534044"
+      },
+      {
+        "Neighborhood": "Boujibar",
+        "City": "Al Hoceima",
+        "Lat": "35.2311083",
+        "Lon": "-3.9379942"
+      },
+      {
+        "Neighborhood": "Cala Bonita",
+        "City": "Al Hoceima",
+        "Lat": "35.2335464",
+        "Lon": "-3.9269042"
+      },
+      {
+        "Neighborhood": "Marmuca",
+        "City": "Al Hoceima",
+        "Lat": "35.2400135",
+        "Lon": "-3.9410448"
+      },
+      {
+        "Neighborhood": "Morro Viejo",
+        "City": "Al Hoceima",
+        "Lat": "35.2402497",
+        "Lon": "-3.9275694"
+      },
+      {
+        "Neighborhood": "Sidi Abid",
+        "City": "Al Hoceima",
+        "Lat": "35.2522668",
+        "Lon": "-3.9360505"
+      },
+      {
+        "Neighborhood": "Sidi Mansour",
+        "City": "Al Hoceima",
+        "Lat": "35.24898100554232",
+        "Lon": "-3.9305210178802303"
+      },
+      {
+        "Neighborhood": "Sraghna",
+        "City": "Al Hoceima",
+        "Lat": "35.25379268281755",
+        "Lon": "-3.933182052897314"
+      },
+      {
+        "Neighborhood": "Tighanimine",
+        "City": "Al Hoceima",
+        "Lat": "35.2331787",
+        "Lon": "-3.9564186"
+      }
+    ]
+  },
+  {
+    "City": "Azemmour-Haouzia",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Hay El Amal",
+        "City": "Azemmour-Haouzia",
+        "Lat": "33.2804432",
+        "Lon": "-8.3616753"
+      }
+    ]
+  },
+  {
+    "City": "Ben Guerir",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Avenue Hassan Ii",
+        "City": "Ben Guerir",
+        "Lat": "32.221750521390845",
+        "Lon": "-7.913871286326793"
+      },
+      {
+        "Neighborhood": "Complexe Culturel 2",
+        "City": "Ben Guerir",
+        "Lat": "32.2206093",
+        "Lon": "-7.9571083"
+      },
+      {
+        "Neighborhood": "Hay Al Farah",
+        "City": "Ben Guerir",
+        "Lat": "32.2364792",
+        "Lon": "-7.9522474"
+      },
+      {
+        "Neighborhood": "Hay Moulay Rachid",
+        "City": "Ben Guerir",
+        "Lat": "32.2146102",
+        "Lon": "-7.9276742"
+      }
+    ]
+  },
+  {
+    "City": "Benslimane",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Al Farah",
+        "City": "Benslimane",
+        "Lat": "33.6252097",
+        "Lon": "-7.1263895"
+      },
+      {
+        "Neighborhood": "Hay Karim",
+        "City": "Benslimane",
+        "Lat": "33.6260752",
+        "Lon": "-7.131648"
+      },
+      {
+        "Neighborhood": "Les Chenes",
+        "City": "Benslimane",
+        "Lat": "33.6493961",
+        "Lon": "-7.0821238"
+      },
+      {
+        "Neighborhood": "Moualine El Ghaba",
+        "City": "Benslimane",
+        "Lat": "33.6230174",
+        "Lon": "-7.177013"
+      },
+      {
+        "Neighborhood": "Oasis",
+        "City": "Benslimane",
+        "Lat": "33.82216",
+        "Lon": "-7.139505332830964"
+      }
+    ]
+  },
+  {
+    "City": "Berkane",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Bab El Madina",
+        "City": "Berkane",
+        "Lat": "34.9329882",
+        "Lon": "-2.3049408"
+      },
+      {
+        "Neighborhood": "Hay Al Amal",
+        "City": "Berkane",
+        "Lat": "34.928484",
+        "Lon": "-2.312857"
+      },
+      {
+        "Neighborhood": "Hay Al Karam",
+        "City": "Berkane",
+        "Lat": "34.9415244",
+        "Lon": "-2.340543"
+      },
+      {
+        "Neighborhood": "Hay Mohammadi El Makteb",
+        "City": "Berkane",
+        "Lat": "34.9231549",
+        "Lon": "-2.3151793"
+      },
+      {
+        "Neighborhood": "Hay Rami",
+        "City": "Berkane",
+        "Lat": "34.9245944",
+        "Lon": "-2.3015767"
+      },
+      {
+        "Neighborhood": "Hay Riad",
+        "City": "Berkane",
+        "Lat": "34.9243469",
+        "Lon": "-2.3059319"
+      },
+      {
+        "Neighborhood": "Lotissement Ennassim",
+        "City": "Berkane",
+        "Lat": "34.8990145",
+        "Lon": "-2.3018273"
+      },
+      {
+        "Neighborhood": "Quartier Industriel De Berkane",
+        "City": "Berkane",
+        "Lat": "34.92780905",
+        "Lon": "-2.3159277868412182"
+      }
+    ]
+  },
+  {
+    "City": "Berrechid",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Al Faraj",
+        "City": "Berrechid",
+        "Lat": "33.2592394",
+        "Lon": "-7.5635488"
+      },
+      {
+        "Neighborhood": "Anassi",
+        "City": "Berrechid",
+        "Lat": "33.27119425",
+        "Lon": "-7.568738124740208"
+      },
+      {
+        "Neighborhood": "Derb Jdid",
+        "City": "Berrechid",
+        "Lat": "33.2653158",
+        "Lon": "-7.5914109"
+      },
+      {
+        "Neighborhood": "Errabii",
+        "City": "Berrechid",
+        "Lat": "33.2606766",
+        "Lon": "-7.5966032"
+      },
+      {
+        "Neighborhood": "Hay El Raha",
+        "City": "Berrechid",
+        "Lat": "33.27200085",
+        "Lon": "-7.573766426055179"
+      },
+      {
+        "Neighborhood": "Hay Tissir",
+        "City": "Berrechid",
+        "Lat": "33.2667359",
+        "Lon": "-7.5764953"
+      },
+      {
+        "Neighborhood": "Layali",
+        "City": "Berrechid",
+        "Lat": "33.2758821",
+        "Lon": "-7.5844323"
+      },
+      {
+        "Neighborhood": "Zone Industrielle De Berrechid",
+        "City": "Berrechid",
+        "Lat": "33.2458978",
+        "Lon": "-7.58982014226631"
+      }
+    ]
+  },
+  {
+    "City": "Bni Yakhlef",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Ain Tekki",
+        "City": "Bni Yakhlef",
+        "Lat": "33.661389299999996",
+        "Lon": "-7.350306100074416"
+      },
+      {
+        "Neighborhood": "Lotissement Malak",
+        "City": "Bni Yakhlef",
+        "Lat": "33.6864764",
+        "Lon": "-7.3466049"
+      }
+    ]
+  },
+  {
+    "City": "Bouskoura",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Bouskoura",
+        "City": "Bouskoura",
+        "Lat": "33.4613152",
+        "Lon": "-7.6516631"
+      },
+      {
+        "Neighborhood": "Foret De Bouskoura",
+        "City": "Bouskoura",
+        "Lat": "33.4590663",
+        "Lon": "-7.580919391080129"
+      },
+      {
+        "Neighborhood": "Lahouami",
+        "City": "Bouskoura",
+        "Lat": "33.4467916",
+        "Lon": "-7.6480435"
+      },
+      {
+        "Neighborhood": "Riad Bouskoura",
+        "City": "Bouskoura",
+        "Lat": "33.4597363",
+        "Lon": "-7.641178"
+      },
+      {
+        "Neighborhood": "Victoria",
+        "City": "Bouskoura",
+        "Lat": "33.4181692",
+        "Lon": "-7.6726284"
+      },
+      {
+        "Neighborhood": "Ville Verte",
+        "City": "Bouskoura",
+        "Lat": "33.474702",
+        "Lon": "-7.6009654"
+      }
+    ]
+  },
+  {
+    "City": "Bouznika",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Bouznika Bay",
+        "City": "Bouznika",
+        "Lat": "33.8106912",
+        "Lon": "-7.155243"
+      },
+      {
+        "Neighborhood": "Eden Island",
+        "City": "Bouznika",
+        "Lat": "33.8240379",
+        "Lon": "-7.133097960386836"
+      },
+      {
+        "Neighborhood": "Hay Riad",
+        "City": "Bouznika",
+        "Lat": "33.780034900000004",
+        "Lon": "-7.1610287748605845"
+      }
+    ]
+  },
+  {
+    "City": "Béni Mellal",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Ain Asserdoune",
+        "City": "Béni Mellal",
+        "Lat": "32.3344429",
+        "Lon": "-6.3632166"
+      },
+      {
+        "Neighborhood": "Ait Tisslit",
+        "City": "Béni Mellal",
+        "Lat": "32.3342741",
+        "Lon": "-6.3501821"
+      },
+      {
+        "Neighborhood": "Al Adarissa",
+        "City": "Béni Mellal",
+        "Lat": "32.3335099",
+        "Lon": "-6.3672697"
+      },
+      {
+        "Neighborhood": "El Massira",
+        "City": "Béni Mellal",
+        "Lat": "32.8874889",
+        "Lon": "-6.8969171"
+      },
+      {
+        "Neighborhood": "El Massira 2",
+        "City": "Béni Mellal",
+        "Lat": "32.8874889",
+        "Lon": "-6.8969171"
+      },
+      {
+        "Neighborhood": "Jnan Taher",
+        "City": "Béni Mellal",
+        "Lat": "32.324974",
+        "Lon": "-6.3642228"
+      },
+      {
+        "Neighborhood": "Zone Industrielle De Beni Mellal",
+        "City": "Béni Mellal",
+        "Lat": "32.3009612",
+        "Lon": "-6.4157465"
+      }
+    ]
+  },
+  {
+    "City": "Casablanca",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Ain Borja",
+        "City": "Casablanca",
+        "Lat": "33.5803669",
+        "Lon": "-7.5919089"
+      },
+      {
+        "Neighborhood": "Ain Chock",
+        "City": "Casablanca",
+        "Lat": "33.5370603",
+        "Lon": "-7.5981542"
+      },
+      {
+        "Neighborhood": "Ain Diab",
+        "City": "Casablanca",
+        "Lat": "33.5811626",
+        "Lon": "-7.6843877"
+      },
+      {
+        "Neighborhood": "Ain Sebaa",
+        "City": "Casablanca",
+        "Lat": "33.6059943",
+        "Lon": "-7.5387936"
+      },
+      {
+        "Neighborhood": "Al Azhar",
+        "City": "Casablanca",
+        "Lat": "33.6016717",
+        "Lon": "-7.4911269"
+      },
+      {
+        "Neighborhood": "Al Osra",
+        "City": "Casablanca",
+        "Lat": "33.5355831",
+        "Lon": "-7.581768"
+      },
+      {
+        "Neighborhood": "Almostakbal",
+        "City": "Casablanca",
+        "Lat": "33.5512849",
+        "Lon": "-7.6816219"
+      },
+      {
+        "Neighborhood": "Anassi",
+        "City": "Casablanca",
+        "Lat": "33.5909369",
+        "Lon": "-7.491909"
+      },
+      {
+        "Neighborhood": "Ancienne Medina",
+        "City": "Casablanca",
+        "Lat": "33.6007224",
+        "Lon": "-7.6203326"
+      },
+      {
+        "Neighborhood": "Azhar Oulfa",
+        "City": "Casablanca",
+        "Lat": "33.5468841",
+        "Lon": "-7.6954555"
+      },
+      {
+        "Neighborhood": "Azhar Oulfa 2",
+        "City": "Casablanca",
+        "Lat": "33.5646333",
+        "Lon": "-7.677884399999998"
+      },
+      {
+        "Neighborhood": "Bachkou",
+        "City": "Casablanca",
+        "Lat": "33.5570776",
+        "Lon": "-7.6274253"
+      },
+      {
+        "Neighborhood": "Beausejour",
+        "City": "Casablanca",
+        "Lat": "33.5684105",
+        "Lon": "-7.6492935"
+      },
+      {
+        "Neighborhood": "Belvedere (Roches Noires)",
+        "City": "Casablanca",
+        "Lat": "33.585269249999996",
+        "Lon": "-7.590132036615339"
+      },
+      {
+        "Neighborhood": "Ben Abid",
+        "City": "Casablanca",
+        "Lat": "33.5006824",
+        "Lon": "-7.8735656"
+      },
+      {
+        "Neighborhood": "Benmsick",
+        "City": "Casablanca",
+        "Lat": "33.5575449",
+        "Lon": "-7.5792818"
+      },
+      {
+        "Neighborhood": "Bourgogne (Anfa)",
+        "City": "Casablanca",
+        "Lat": "33.5985679",
+        "Lon": "-7.6418596"
+      },
+      {
+        "Neighborhood": "Bourgogne (Sidi Belyout)",
+        "City": "Casablanca",
+        "Lat": "33.5950536",
+        "Lon": "-7.637338"
+      },
+      {
+        "Neighborhood": "Californie",
+        "City": "Casablanca",
+        "Lat": "33.5411922",
+        "Lon": "-7.626038"
+      },
+      {
+        "Neighborhood": "Casa Nearshore",
+        "City": "Casablanca",
+        "Lat": "33.529521349999996",
+        "Lon": "-7.6388031143502735"
+      },
+      {
+        "Neighborhood": "Casablanca Finance City",
+        "City": "Casablanca",
+        "Lat": "33.5587873",
+        "Lon": "-7.6567602"
+      },
+      {
+        "Neighborhood": "Chouhada",
+        "City": "Casablanca",
+        "Lat": "33.5884957",
+        "Lon": "-7.5677696"
+      },
+      {
+        "Neighborhood": "Cil",
+        "City": "Casablanca",
+        "Lat": "33.5724212",
+        "Lon": "-7.6578406"
+      },
+      {
+        "Neighborhood": "Derb Ghalef",
+        "City": "Casablanca",
+        "Lat": "33.5700579",
+        "Lon": "-7.6316594"
+      },
+      {
+        "Neighborhood": "Derb Omar",
+        "City": "Casablanca",
+        "Lat": "33.0014126",
+        "Lon": "-7.613991"
+      },
+      {
+        "Neighborhood": "Derb Sultan",
+        "City": "Casablanca",
+        "Lat": "33.5721699",
+        "Lon": "-7.5958496"
+      },
+      {
+        "Neighborhood": "El Hank",
+        "City": "Casablanca",
+        "Lat": "33.6042193",
+        "Lon": "-7.6501754"
+      },
+      {
+        "Neighborhood": "Errahma",
+        "City": "Casablanca",
+        "Lat": "33.550036399999996",
+        "Lon": "-7.69789"
+      },
+      {
+        "Neighborhood": "Facultes - Route D'El Jadida",
+        "City": "Casablanca",
+        "Lat": "33.5417399",
+        "Lon": "-7.6560022"
+      },
+      {
+        "Neighborhood": "Ferme Bretonne",
+        "City": "Casablanca",
+        "Lat": "33.56399",
+        "Lon": "-7.6464243"
+      },
+      {
+        "Neighborhood": "Fida",
+        "City": "Casablanca",
+        "Lat": "33.564191699999995",
+        "Lon": "-7.595779035343833"
+      },
+      {
+        "Neighborhood": "Fonciere",
+        "City": "Casablanca",
+        "Lat": "33.59078135",
+        "Lon": "-7.61992297884616"
+      },
+      {
+        "Neighborhood": "Gauthier",
+        "City": "Casablanca",
+        "Lat": "33.5898333",
+        "Lon": "-7.6306305"
+      },
+      {
+        "Neighborhood": "Habbous",
+        "City": "Casablanca",
+        "Lat": "33.57509115957317",
+        "Lon": "-7.644822124884446"
+      },
+      {
+        "Neighborhood": "Hay Hassani",
+        "City": "Casablanca",
+        "Lat": "33.5702887",
+        "Lon": "-7.678495"
+      },
+      {
+        "Neighborhood": "Hay Mohammadi",
+        "City": "Casablanca",
+        "Lat": "33.5841444",
+        "Lon": "-7.5569559"
+      },
+      {
+        "Neighborhood": "Hay Mohammadi (Ain Sebaa)",
+        "City": "Casablanca",
+        "Lat": "33.5994873",
+        "Lon": "-7.5282843"
+      },
+      {
+        "Neighborhood": "Hopitaux",
+        "City": "Casablanca",
+        "Lat": "33.5771288",
+        "Lon": "-7.6170525"
+      },
+      {
+        "Neighborhood": "Ibn Tachfine",
+        "City": "Casablanca",
+        "Lat": "33.5808406",
+        "Lon": "-7.5633887"
+      },
+      {
+        "Neighborhood": "Inara",
+        "City": "Casablanca",
+        "Lat": "33.540299399999995",
+        "Lon": "-7.5990249121244995"
+      },
+      {
+        "Neighborhood": "La Colline",
+        "City": "Casablanca",
+        "Lat": "33.5388192",
+        "Lon": "-7.6422814"
+      },
+      {
+        "Neighborhood": "La Gironde",
+        "City": "Casablanca",
+        "Lat": "33.5877884",
+        "Lon": "-7.6011649"
+      },
+      {
+        "Neighborhood": "La Villette",
+        "City": "Casablanca",
+        "Lat": "33.588956267753666",
+        "Lon": "-7.57569297634851"
+      },
+      {
+        "Neighborhood": "Lahraouine (Sidi Othmane)",
+        "City": "Casablanca",
+        "Lat": "33.5606836",
+        "Lon": "-7.5527375"
+      },
+      {
+        "Neighborhood": "Laymoune",
+        "City": "Casablanca",
+        "Lat": "33.53547959009404",
+        "Lon": "-7.683406525589458"
+      },
+      {
+        "Neighborhood": "Les Princesses",
+        "City": "Casablanca",
+        "Lat": "33.5770141",
+        "Lon": "-7.6480351"
+      },
+      {
+        "Neighborhood": "Liberte",
+        "City": "Casablanca",
+        "Lat": "33.58661995697762",
+        "Lon": "-7.611673464917864"
+      },
+      {
+        "Neighborhood": "Lissasfa",
+        "City": "Casablanca",
+        "Lat": "33.5314545",
+        "Lon": "-7.6724261"
+      },
+      {
+        "Neighborhood": "Longchamps",
+        "City": "Casablanca",
+        "Lat": "33.5668991",
+        "Lon": "-7.645743502887616"
+      },
+      {
+        "Neighborhood": "Maarif",
+        "City": "Casablanca",
+        "Lat": "33.5836296",
+        "Lon": "-7.6367005"
+      },
+      {
+        "Neighborhood": "Maarif Extension",
+        "City": "Casablanca",
+        "Lat": "33.579103",
+        "Lon": "-7.641645"
+      },
+      {
+        "Neighborhood": "Mandarouna",
+        "City": "Casablanca",
+        "Lat": "33.529392",
+        "Lon": "-7.616933"
+      },
+      {
+        "Neighborhood": "Mers Sultan",
+        "City": "Casablanca",
+        "Lat": "33.5697456",
+        "Lon": "-7.6087962"
+      },
+      {
+        "Neighborhood": "Moulay Rachid",
+        "City": "Casablanca",
+        "Lat": "33.5675448",
+        "Lon": "-7.5452441"
+      },
+      {
+        "Neighborhood": "Moulay Youssef",
+        "City": "Casablanca",
+        "Lat": "33.6022584",
+        "Lon": "-7.6331636"
+      },
+      {
+        "Neighborhood": "Nassim",
+        "City": "Casablanca",
+        "Lat": "33.5425088",
+        "Lon": "-7.6521545"
+      },
+      {
+        "Neighborhood": "Oasis",
+        "City": "Casablanca",
+        "Lat": "33.24446905",
+        "Lon": "-8.490641823870783"
+      },
+      {
+        "Neighborhood": "Ouled Ahmed",
+        "City": "Casablanca",
+        "Lat": "33.02821505",
+        "Lon": "-7.075650604963011"
+      },
+      {
+        "Neighborhood": "Ouled Ziane",
+        "City": "Casablanca",
+        "Lat": "33.575222032132885",
+        "Lon": "-7.584514680937601"
+      },
+      {
+        "Neighborhood": "Oulfa",
+        "City": "Casablanca",
+        "Lat": "33.551296",
+        "Lon": "-7.6843462"
+      },
+      {
+        "Neighborhood": "Palmier (Maarif)",
+        "City": "Casablanca",
+        "Lat": "33.581410500000004",
+        "Lon": "-7.632103550686721"
+      },
+      {
+        "Neighborhood": "Palmier (Sidi Belyout)",
+        "City": "Casablanca",
+        "Lat": "33.5878823",
+        "Lon": "-7.6156604"
+      },
+      {
+        "Neighborhood": "Plateau",
+        "City": "Casablanca",
+        "Lat": "33.5691699",
+        "Lon": "-7.6369972"
+      },
+      {
+        "Neighborhood": "Racine",
+        "City": "Casablanca",
+        "Lat": "33.590265",
+        "Lon": "-7.640054"
+      },
+      {
+        "Neighborhood": "Roches Noires",
+        "City": "Casablanca",
+        "Lat": "33.5931914",
+        "Lon": "-7.5957822"
+      },
+      {
+        "Neighborhood": "Sbata",
+        "City": "Casablanca",
+        "Lat": "33.5376589",
+        "Lon": "-7.564046"
+      },
+      {
+        "Neighborhood": "Sidi Abderrahman",
+        "City": "Casablanca",
+        "Lat": "33.582525149999995",
+        "Lon": "-7.7043303121618525"
+      },
+      {
+        "Neighborhood": "Sidi Bernoussi",
+        "City": "Casablanca",
+        "Lat": "33.6190686",
+        "Lon": "-7.5003234"
+      },
+      {
+        "Neighborhood": "Sidi El Khadir",
+        "City": "Casablanca",
+        "Lat": "33.57",
+        "Lon": "-7.686"
+      },
+      {
+        "Neighborhood": "Sidi Maarouf",
+        "City": "Casablanca",
+        "Lat": "33.5286123",
+        "Lon": "-7.646462"
+      },
+      {
+        "Neighborhood": "Sidi Messaoud",
+        "City": "Casablanca",
+        "Lat": "33.5129595",
+        "Lon": "-7.6319472"
+      },
+      {
+        "Neighborhood": "Sidi Moumen",
+        "City": "Casablanca",
+        "Lat": "33.5843834",
+        "Lon": "-7.5072051"
+      },
+      {
+        "Neighborhood": "Sidi Othmane",
+        "City": "Casablanca",
+        "Lat": "33.5570072",
+        "Lon": "-7.5603844"
+      },
+      {
+        "Neighborhood": "Sindibad",
+        "City": "Casablanca",
+        "Lat": "33.5922035",
+        "Lon": "-7.6043482"
+      },
+      {
+        "Neighborhood": "Triangle D'Or",
+        "City": "Casablanca",
+        "Lat": "33.590265",
+        "Lon": "-7.640054"
+      },
+      {
+        "Neighborhood": "Yasmina",
+        "City": "Casablanca",
+        "Lat": "33.53987376590356",
+        "Lon": "-7.585168318851936"
+      },
+      {
+        "Neighborhood": "Zone Industrielle Ain Sebaa",
+        "City": "Casablanca",
+        "Lat": "33.6155945",
+        "Lon": "-7.5517916"
+      }
+    ]
+  },
+  {
+    "City": "Dar Bouazza",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Errahma",
+        "City": "Dar Bouazza",
+        "Lat": "33.5343348",
+        "Lon": "-7.7322843"
+      }
+    ]
+  },
+  {
+    "City": "Dcheira El Jihadia",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Atlasia",
+        "City": "Dcheira El Jihadia",
+        "Lat": "30.3708459",
+        "Lon": "-9.5304499"
+      },
+      {
+        "Neighborhood": "Bouachra",
+        "City": "Dcheira El Jihadia",
+        "Lat": "30.3828415",
+        "Lon": "-9.5328262"
+      },
+      {
+        "Neighborhood": "Fadesa - Tafoukt",
+        "City": "Dcheira El Jihadia",
+        "Lat": "30.3777578",
+        "Lon": "-9.5261121"
+      },
+      {
+        "Neighborhood": "La Pergola",
+        "City": "Dcheira El Jihadia",
+        "Lat": "30.373942",
+        "Lon": "-9.54977562022513"
+      },
+      {
+        "Neighborhood": "Tassila",
+        "City": "Dcheira El Jihadia",
+        "Lat": "30.3894286",
+        "Lon": "-9.5241531"
+      }
+    ]
+  },
+  {
+    "City": "El Jadida",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Al Boustane",
+        "City": "El Jadida",
+        "Lat": "33.2318078",
+        "Lon": "-8.4850708"
+      },
+      {
+        "Neighborhood": "Bennani",
+        "City": "El Jadida",
+        "Lat": "33.2430875",
+        "Lon": "-8.5360727"
+      },
+      {
+        "Neighborhood": "Californie",
+        "City": "El Jadida",
+        "Lat": "33.2372722",
+        "Lon": "-8.4694308"
+      },
+      {
+        "Neighborhood": "Cite Portugaise",
+        "City": "El Jadida",
+        "Lat": "33.2567967",
+        "Lon": "-8.5023323"
+      },
+      {
+        "Neighborhood": "El Ghorba",
+        "City": "El Jadida",
+        "Lat": "33.2195394",
+        "Lon": "-8.4744251"
+      },
+      {
+        "Neighborhood": "El Manar",
+        "City": "El Jadida",
+        "Lat": "33.2492577",
+        "Lon": "-8.529607397160731"
+      },
+      {
+        "Neighborhood": "Ezzouhour",
+        "City": "El Jadida",
+        "Lat": "33.2469835",
+        "Lon": "-8.5149117"
+      },
+      {
+        "Neighborhood": "Hay Amal",
+        "City": "El Jadida",
+        "Lat": "33.2387304",
+        "Lon": "-8.5253037"
+      },
+      {
+        "Neighborhood": "Hay Salam",
+        "City": "El Jadida",
+        "Lat": "33.2244683",
+        "Lon": "-8.5008141"
+      },
+      {
+        "Neighborhood": "Lalla Zahra",
+        "City": "El Jadida",
+        "Lat": "33.2535343",
+        "Lon": "-8.514201947724384"
+      },
+      {
+        "Neighborhood": "Medina",
+        "City": "El Jadida",
+        "Lat": "33.2859918",
+        "Lon": "-8.3414397"
+      },
+      {
+        "Neighborhood": "Melk Cheikh",
+        "City": "El Jadida",
+        "Lat": "33.23255575",
+        "Lon": "-8.526502016936018"
+      },
+      {
+        "Neighborhood": "Mouilha",
+        "City": "El Jadida",
+        "Lat": "33.25134265",
+        "Lon": "-8.519634122928363"
+      },
+      {
+        "Neighborhood": "Najd",
+        "City": "El Jadida",
+        "Lat": "33.2284098",
+        "Lon": "-8.5064319"
+      },
+      {
+        "Neighborhood": "Nassim",
+        "City": "El Jadida",
+        "Lat": "33.2378558",
+        "Lon": "-8.5226331"
+      },
+      {
+        "Neighborhood": "Plateau",
+        "City": "El Jadida",
+        "Lat": "33.247289",
+        "Lon": "-8.508932"
+      },
+      {
+        "Neighborhood": "Sidi Moussa",
+        "City": "El Jadida",
+        "Lat": "33.2349309",
+        "Lon": "-8.48960760318096"
+      },
+      {
+        "Neighborhood": "Zone Industrielle D'El Jadida",
+        "City": "El Jadida",
+        "Lat": "33.2100547",
+        "Lon": "-8.4871885220467"
+      }
+    ]
+  },
+  {
+    "City": "Errachidia",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Azemour",
+        "City": "Errachidia",
+        "Lat": "31.9361465",
+        "Lon": "-4.4476988"
+      },
+      {
+        "Neighborhood": "Boutalamine",
+        "City": "Errachidia",
+        "Lat": "31.92",
+        "Lon": "-4.439"
+      },
+      {
+        "Neighborhood": "Cite Amezouj",
+        "City": "Errachidia",
+        "Lat": "31.9386185",
+        "Lon": "-4.4598714"
+      },
+      {
+        "Neighborhood": "Cite Universitaire",
+        "City": "Errachidia",
+        "Lat": "31.9407152",
+        "Lon": "-4.454029484730302"
+      },
+      {
+        "Neighborhood": "El Massira",
+        "City": "Errachidia",
+        "Lat": "31.5073134",
+        "Lon": "-5.0385129"
+      },
+      {
+        "Neighborhood": "Mohit",
+        "City": "Errachidia",
+        "Lat": "31.9284369",
+        "Lon": "-4.4338867"
+      },
+      {
+        "Neighborhood": "Targa",
+        "City": "Errachidia",
+        "Lat": "31.9278105",
+        "Lon": "-4.4429916"
+      }
+    ]
+  },
+  {
+    "City": "Essaouira",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Ahl Agadir",
+        "City": "Essaouira",
+        "Lat": "31.512899",
+        "Lon": "-9.7679781"
+      },
+      {
+        "Neighborhood": "Argana",
+        "City": "Essaouira",
+        "Lat": "31.5145327",
+        "Lon": "-9.768573"
+      },
+      {
+        "Neighborhood": "Azlef",
+        "City": "Essaouira",
+        "Lat": "31.505743",
+        "Lon": "-9.7583099"
+      },
+      {
+        "Neighborhood": "Boulevard Mohammed V",
+        "City": "Essaouira",
+        "Lat": "31.5105673233904",
+        "Lon": "-9.769432931833002"
+      },
+      {
+        "Neighborhood": "Des Dunes",
+        "City": "Essaouira",
+        "Lat": "31.4992858",
+        "Lon": "-9.7594609"
+      },
+      {
+        "Neighborhood": "El Borj",
+        "City": "Essaouira",
+        "Lat": "31.5096052",
+        "Lon": "-9.7746204"
+      },
+      {
+        "Neighborhood": "Erraounak",
+        "City": "Essaouira",
+        "Lat": "31.4994725",
+        "Lon": "-9.7533725"
+      },
+      {
+        "Neighborhood": "Kasbah",
+        "City": "Essaouira",
+        "Lat": "31.5131509",
+        "Lon": "-9.7719467"
+      },
+      {
+        "Neighborhood": "Medina",
+        "City": "Essaouira",
+        "Lat": "31.51455955",
+        "Lon": "-9.768894828629712"
+      },
+      {
+        "Neighborhood": "Nouvelle Ville",
+        "City": "Essaouira",
+        "Lat": "31.5106032",
+        "Lon": "-9.7579112"
+      },
+      {
+        "Neighborhood": "Skala",
+        "City": "Essaouira",
+        "Lat": "31.523648350000002",
+        "Lon": "-9.752652421341995"
+      }
+    ]
+  },
+  {
+    "City": "Fnideq",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Kondisa",
+        "City": "Fnideq",
+        "Lat": "35.8372435",
+        "Lon": "-5.3555419"
+      }
+    ]
+  },
+  {
+    "City": "Fès",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Ain Haroun",
+        "City": "Fès",
+        "Lat": "34.066531",
+        "Lon": "-5.0073181"
+      },
+      {
+        "Neighborhood": "Al Adarissa",
+        "City": "Fès",
+        "Lat": "34.0183147",
+        "Lon": "-5.0141634"
+      },
+      {
+        "Neighborhood": "Al Jawahir",
+        "City": "Fès",
+        "Lat": "34.0554359",
+        "Lon": "-5.0035273"
+      },
+      {
+        "Neighborhood": "Al Marja",
+        "City": "Fès",
+        "Lat": "34.0312285",
+        "Lon": "-5.0446229"
+      },
+      {
+        "Neighborhood": "Al Mourabitine",
+        "City": "Fès",
+        "Lat": "34.2297256",
+        "Lon": "-4.016927"
+      },
+      {
+        "Neighborhood": "Bab Jdid",
+        "City": "Fès",
+        "Lat": "34.0559823",
+        "Lon": "-4.9746377"
+      },
+      {
+        "Neighborhood": "Ben Debbab",
+        "City": "Fès",
+        "Lat": "34.0638765",
+        "Lon": "-4.9943906"
+      },
+      {
+        "Neighborhood": "Ben Slimane",
+        "City": "Fès",
+        "Lat": "34.0690075",
+        "Lon": "-4.987384668294521"
+      },
+      {
+        "Neighborhood": "Ben Souda",
+        "City": "Fès",
+        "Lat": "34.0068845",
+        "Lon": "-5.067669233770365"
+      },
+      {
+        "Neighborhood": "Chaimae",
+        "City": "Fès",
+        "Lat": "34.0592291",
+        "Lon": "-5.025489"
+      },
+      {
+        "Neighborhood": "Dhar Mehraz",
+        "City": "Fès",
+        "Lat": "34.0369664",
+        "Lon": "-4.9896306"
+      },
+      {
+        "Neighborhood": "Errayhan",
+        "City": "Fès",
+        "Lat": "34.6310514",
+        "Lon": "-4.8432491"
+      },
+      {
+        "Neighborhood": "Hay Al Wifaq",
+        "City": "Fès",
+        "Lat": "33.8967791",
+        "Lon": "-5.5831585"
+      },
+      {
+        "Neighborhood": "Hay Atlas",
+        "City": "Fès",
+        "Lat": "34.0307453",
+        "Lon": "-4.9944127"
+      },
+      {
+        "Neighborhood": "Hay Badr",
+        "City": "Fès",
+        "Lat": "34.0250218",
+        "Lon": "-5.0195794"
+      },
+      {
+        "Neighborhood": "Hay Hassani",
+        "City": "Fès",
+        "Lat": "34.0209771",
+        "Lon": "-4.9744947"
+      },
+      {
+        "Neighborhood": "Hay Mohammadi",
+        "City": "Fès",
+        "Lat": "33.32133640369326",
+        "Lon": "-5.382977637663949"
+      },
+      {
+        "Neighborhood": "Hay Riad",
+        "City": "Fès",
+        "Lat": "34.0261278",
+        "Lon": "-5.0099827"
+      },
+      {
+        "Neighborhood": "Hay Tarik",
+        "City": "Fès",
+        "Lat": "34.0353937",
+        "Lon": "-5.0243261"
+      },
+      {
+        "Neighborhood": "Jbel Tghat",
+        "City": "Fès",
+        "Lat": "34.0577633",
+        "Lon": "-5.0212595"
+      },
+      {
+        "Neighborhood": "Lido",
+        "City": "Fès",
+        "Lat": "34.0346878",
+        "Lon": "-4.9887046"
+      },
+      {
+        "Neighborhood": "Mellah",
+        "City": "Fès",
+        "Lat": "33.8923599",
+        "Lon": "-5.5693456"
+      },
+      {
+        "Neighborhood": "Menzeh Saiss",
+        "City": "Fès",
+        "Lat": "34.0075084",
+        "Lon": "-4.9541278"
+      },
+      {
+        "Neighborhood": "Mont Fleuri",
+        "City": "Fès",
+        "Lat": "34.0164884",
+        "Lon": "-4.9900381"
+      },
+      {
+        "Neighborhood": "Narjiss",
+        "City": "Fès",
+        "Lat": "34.0132127",
+        "Lon": "-4.9728443"
+      },
+      {
+        "Neighborhood": "Oued Fes",
+        "City": "Fès",
+        "Lat": "34.03435870369335",
+        "Lon": "-5.068288031451889"
+      },
+      {
+        "Neighborhood": "Quartier Industriel Doukkarat",
+        "City": "Fès",
+        "Lat": "34.0434927",
+        "Lon": "-5.029158750447232"
+      },
+      {
+        "Neighborhood": "Quartier Industriel Sidi Brahim",
+        "City": "Fès",
+        "Lat": "34.026586050000006",
+        "Lon": "-4.980090608619161"
+      },
+      {
+        "Neighborhood": "Quods",
+        "City": "Fès",
+        "Lat": "34.0635185",
+        "Lon": "-4.9602452"
+      },
+      {
+        "Neighborhood": "Rachidia",
+        "City": "Fès",
+        "Lat": "34.0123275",
+        "Lon": "-5.0141604"
+      },
+      {
+        "Neighborhood": "Sbai",
+        "City": "Fès",
+        "Lat": "34.0114216",
+        "Lon": "-4.9667872"
+      },
+      {
+        "Neighborhood": "Talaa",
+        "City": "Fès",
+        "Lat": "34.06365555954469",
+        "Lon": "-4.981327453204297"
+      },
+      {
+        "Neighborhood": "Ville Nouvelle",
+        "City": "Fès",
+        "Lat": "34.0343137",
+        "Lon": "-4.9980042"
+      },
+      {
+        "Neighborhood": "Zohour",
+        "City": "Fès",
+        "Lat": "34.0153264",
+        "Lon": "-4.9862276"
+      },
+      {
+        "Neighborhood": "Zone Industrielle Ain Chkef",
+        "City": "Fès",
+        "Lat": "33.9862016",
+        "Lon": "-5.076560054417783"
+      },
+      {
+        "Neighborhood": "Zone Industrielle Bensouda",
+        "City": "Fès",
+        "Lat": "34.00263485",
+        "Lon": "-5.0567015866959295"
+      },
+      {
+        "Neighborhood": "Zouagha",
+        "City": "Fès",
+        "Lat": "34.0174142",
+        "Lon": "-5.0541572"
+      },
+      {
+        "Neighborhood": "Zouagha Bas",
+        "City": "Fès",
+        "Lat": "34.0277814",
+        "Lon": "-5.0462297"
+      }
+    ]
+  },
+  {
+    "City": "Guelmim",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Aeroport De Guelmim",
+        "City": "Guelmim",
+        "Lat": "29.0236486",
+        "Lon": "-10.046350499403363"
+      },
+      {
+        "Neighborhood": "Amhirich",
+        "City": "Guelmim",
+        "Lat": "28.99004095",
+        "Lon": "-10.073113417605173"
+      },
+      {
+        "Neighborhood": "Hay Oued Noun",
+        "City": "Guelmim",
+        "Lat": "28.9799847",
+        "Lon": "-10.0477496"
+      }
+    ]
+  },
+  {
+    "City": "Harhoura",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Casino",
+        "City": "Harhoura",
+        "Lat": "33.9278449",
+        "Lon": "-6.9554608"
+      },
+      {
+        "Neighborhood": "Sable D'Or",
+        "City": "Harhoura",
+        "Lat": "33.9160935",
+        "Lon": "-6.9706604"
+      },
+      {
+        "Neighborhood": "Sid El Abed",
+        "City": "Harhoura",
+        "Lat": "33.916564",
+        "Lon": "-6.976360756216112"
+      },
+      {
+        "Neighborhood": "Val D'Or",
+        "City": "Harhoura",
+        "Lat": "33.9014042",
+        "Lon": "-6.9956802"
+      }
+    ]
+  },
+  {
+    "City": "Ifrane",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Atlas",
+        "City": "Ifrane",
+        "Lat": "33.530762584596125",
+        "Lon": "-5.112211030134869"
+      },
+      {
+        "Neighborhood": "Oued Tizguit",
+        "City": "Ifrane",
+        "Lat": "33.52243627878212",
+        "Lon": "-5.095067744355704"
+      }
+    ]
+  },
+  {
+    "City": "Inezgane",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Asays",
+        "City": "Inezgane",
+        "Lat": "30.37235835",
+        "Lon": "-9.540608964248252"
+      },
+      {
+        "Neighborhood": "Taghzout",
+        "City": "Inezgane",
+        "Lat": "30.3618143",
+        "Lon": "-9.5377416"
+      }
+    ]
+  },
+  {
+    "City": "Khouribga",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Aeroport Militaire De Khouribga",
+        "City": "Khouribga",
+        "Lat": "32.864342",
+        "Lon": "-6.9498009"
+      },
+      {
+        "Neighborhood": "El Massira",
+        "City": "Khouribga",
+        "Lat": "32.8874889",
+        "Lon": "-6.8969171"
+      },
+      {
+        "Neighborhood": "Hanaa 1",
+        "City": "Khouribga",
+        "Lat": "32.8699994",
+        "Lon": "-6.9168093"
+      },
+      {
+        "Neighborhood": "Hanaa 2",
+        "City": "Khouribga",
+        "Lat": "32.8697097",
+        "Lon": "-6.9099855"
+      },
+      {
+        "Neighborhood": "Hay El Fath",
+        "City": "Khouribga",
+        "Lat": "32.8879964",
+        "Lon": "-6.9154465"
+      },
+      {
+        "Neighborhood": "Hay Essalam",
+        "City": "Khouribga",
+        "Lat": "32.877",
+        "Lon": "-6.9"
+      },
+      {
+        "Neighborhood": "Hay Faraj",
+        "City": "Khouribga",
+        "Lat": "32.864607",
+        "Lon": "-6.9293973"
+      },
+      {
+        "Neighborhood": "Hay Iqbal",
+        "City": "Khouribga",
+        "Lat": "32.8859173",
+        "Lon": "-6.9014923"
+      },
+      {
+        "Neighborhood": "Hay Mabchour",
+        "City": "Khouribga",
+        "Lat": "32.8943915",
+        "Lon": "-6.9221199"
+      },
+      {
+        "Neighborhood": "Hay Ryad",
+        "City": "Khouribga",
+        "Lat": "32.8722827",
+        "Lon": "-6.9297699"
+      },
+      {
+        "Neighborhood": "Hay Yassmina",
+        "City": "Khouribga",
+        "Lat": "32.8922035",
+        "Lon": "-6.8919436"
+      },
+      {
+        "Neighborhood": "Labyoute",
+        "City": "Khouribga",
+        "Lat": "32.8742579",
+        "Lon": "-6.9004489"
+      },
+      {
+        "Neighborhood": "Village Ocp",
+        "City": "Khouribga",
+        "Lat": "32.8761721",
+        "Lon": "-6.9098962"
+      }
+    ]
+  },
+  {
+    "City": "Khémisset",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Al Mouna",
+        "City": "Khémisset",
+        "Lat": "33.8280613",
+        "Lon": "-6.0805464"
+      },
+      {
+        "Neighborhood": "Zone Industrielle",
+        "City": "Khémisset",
+        "Lat": "33.8209947",
+        "Lon": "-6.0784847"
+      }
+    ]
+  },
+  {
+    "City": "Khénifra",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Hay Al Massira",
+        "City": "Khénifra",
+        "Lat": "32.8883746",
+        "Lon": "-6.8909659"
+      },
+      {
+        "Neighborhood": "Hay El Fath",
+        "City": "Khénifra",
+        "Lat": "32.8879964",
+        "Lon": "-6.9154465"
+      }
+    ]
+  },
+  {
+    "City": "Kénitra",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Ain Sebaa",
+        "City": "Kénitra",
+        "Lat": "34.2296268",
+        "Lon": "-6.528318"
+      },
+      {
+        "Neighborhood": "Al Amal",
+        "City": "Kénitra",
+        "Lat": "34.2517173",
+        "Lon": "-6.5549674"
+      },
+      {
+        "Neighborhood": "Al Houzia",
+        "City": "Kénitra",
+        "Lat": "34.2696457",
+        "Lon": "-6.6149549"
+      },
+      {
+        "Neighborhood": "Al Inara",
+        "City": "Kénitra",
+        "Lat": "34.2585345",
+        "Lon": "-6.5576513"
+      },
+      {
+        "Neighborhood": "Al Wafa",
+        "City": "Kénitra",
+        "Lat": "34.2279465",
+        "Lon": "-6.5350708"
+      },
+      {
+        "Neighborhood": "Assaknia",
+        "City": "Kénitra",
+        "Lat": "34.2515804",
+        "Lon": "-6.5485278"
+      },
+      {
+        "Neighborhood": "Assam",
+        "City": "Kénitra",
+        "Lat": "34.2823932",
+        "Lon": "-6.5388039"
+      },
+      {
+        "Neighborhood": "Bab Fes",
+        "City": "Kénitra",
+        "Lat": "34.2693265",
+        "Lon": "-6.5621896"
+      },
+      {
+        "Neighborhood": "Bir Rami",
+        "City": "Kénitra",
+        "Lat": "34.2472614",
+        "Lon": "-6.6029709"
+      },
+      {
+        "Neighborhood": "Bir Rami Est",
+        "City": "Kénitra",
+        "Lat": "34.2461009",
+        "Lon": "-6.6016561"
+      },
+      {
+        "Neighborhood": "El Mellah",
+        "City": "Kénitra",
+        "Lat": "34.2649142",
+        "Lon": "-6.5726682"
+      },
+      {
+        "Neighborhood": "Fouarat",
+        "City": "Kénitra",
+        "Lat": "34.2531394",
+        "Lon": "-6.5225199"
+      },
+      {
+        "Neighborhood": "Haddada",
+        "City": "Kénitra",
+        "Lat": "34.2676705",
+        "Lon": "-6.6260358"
+      },
+      {
+        "Neighborhood": "Ismailia",
+        "City": "Kénitra",
+        "Lat": "34.2741244",
+        "Lon": "-6.608235"
+      },
+      {
+        "Neighborhood": "Khabbazat",
+        "City": "Kénitra",
+        "Lat": "34.2657811",
+        "Lon": "-6.564421"
+      },
+      {
+        "Neighborhood": "La Cigogne",
+        "City": "Kénitra",
+        "Lat": "34.2594252",
+        "Lon": "-6.5684942"
+      },
+      {
+        "Neighborhood": "La Ville Haute",
+        "City": "Kénitra",
+        "Lat": "34.2609146",
+        "Lon": "-6.5902809"
+      },
+      {
+        "Neighborhood": "Maamora",
+        "City": "Kénitra",
+        "Lat": "34.2583411",
+        "Lon": "-6.5830166"
+      },
+      {
+        "Neighborhood": "Maghreb Al Arabi",
+        "City": "Kénitra",
+        "Lat": "34.2538313",
+        "Lon": "-6.6112252"
+      },
+      {
+        "Neighborhood": "Marja",
+        "City": "Kénitra",
+        "Lat": "34.877138",
+        "Lon": "-6.2916408"
+      },
+      {
+        "Neighborhood": "Mimosas",
+        "City": "Kénitra",
+        "Lat": "34.2568149",
+        "Lon": "-6.5931964"
+      },
+      {
+        "Neighborhood": "Nahda",
+        "City": "Kénitra",
+        "Lat": "34.2531661",
+        "Lon": "-6.5521319"
+      },
+      {
+        "Neighborhood": "Nkhakhsa",
+        "City": "Kénitra",
+        "Lat": "34.2964003",
+        "Lon": "-6.522491"
+      },
+      {
+        "Neighborhood": "Ouled Arfa",
+        "City": "Kénitra",
+        "Lat": "34.2421565",
+        "Lon": "-6.5456686"
+      },
+      {
+        "Neighborhood": "Ouled Oujih",
+        "City": "Kénitra",
+        "Lat": "34.2595543",
+        "Lon": "-6.6218953"
+      },
+      {
+        "Neighborhood": "Safaa",
+        "City": "Kénitra",
+        "Lat": "34.2443171",
+        "Lon": "-6.5464988"
+      },
+      {
+        "Neighborhood": "Sayad",
+        "City": "Kénitra",
+        "Lat": "34.2691527",
+        "Lon": "-6.6053381"
+      },
+      {
+        "Neighborhood": "Tiddas",
+        "City": "Kénitra",
+        "Lat": "33.566538",
+        "Lon": "-6.265945"
+      },
+      {
+        "Neighborhood": "Zone Industrielle",
+        "City": "Kénitra",
+        "Lat": "34.2788195",
+        "Lon": "-6.560726204900948"
+      }
+    ]
+  },
+  {
+    "City": "Larache",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Al Maghreb Al Jadid",
+        "City": "Larache",
+        "Lat": "35.1646887",
+        "Lon": "-6.1386127"
+      },
+      {
+        "Neighborhood": "Centre Ville",
+        "City": "Larache",
+        "Lat": "35.196734",
+        "Lon": "-6.1521045"
+      },
+      {
+        "Neighborhood": "Douar Ain Chouk",
+        "City": "Larache",
+        "Lat": "35.1529051",
+        "Lon": "-6.1187736"
+      },
+      {
+        "Neighborhood": "Hay El Jadid",
+        "City": "Larache",
+        "Lat": "35.1811432",
+        "Lon": "-6.1560969"
+      },
+      {
+        "Neighborhood": "Lixus",
+        "City": "Larache",
+        "Lat": "35.2007451",
+        "Lon": "-6.109976214591837"
+      }
+    ]
+  },
+  {
+    "City": "Laâyoune",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "25 Mars",
+        "City": "Laâyoune",
+        "Lat": "27.1299877",
+        "Lon": "-13.153849243499234"
+      },
+      {
+        "Neighborhood": "Al Amal",
+        "City": "Laâyoune",
+        "Lat": "27.129051949999997",
+        "Lon": "-13.16766828083746"
+      },
+      {
+        "Neighborhood": "Al Qassam",
+        "City": "Laâyoune",
+        "Lat": "27.1613476",
+        "Lon": "-13.2172658"
+      },
+      {
+        "Neighborhood": "Al Qods",
+        "City": "Laâyoune",
+        "Lat": "27.14791822947753",
+        "Lon": "-13.191426597139865"
+      },
+      {
+        "Neighborhood": "Al Wahda",
+        "City": "Laâyoune",
+        "Lat": "27.135514108765367",
+        "Lon": "-13.20081208194374"
+      },
+      {
+        "Neighborhood": "Arraha",
+        "City": "Laâyoune",
+        "Lat": "27.1247455",
+        "Lon": "-13.176152557669884"
+      },
+      {
+        "Neighborhood": "Bd Al Hizam Al Kabir",
+        "City": "Laâyoune",
+        "Lat": "27.14417949581525",
+        "Lon": "-13.205979502835993"
+      },
+      {
+        "Neighborhood": "Moulay Rachid",
+        "City": "Laâyoune",
+        "Lat": "27.1462422",
+        "Lon": "-13.19179072101768"
+      },
+      {
+        "Neighborhood": "Quartier Administratif",
+        "City": "Laâyoune",
+        "Lat": "27.154",
+        "Lon": "-13.198"
+      }
+    ]
+  },
+  {
+    "City": "M'Diq",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Marina Smir",
+        "City": "M'Diq",
+        "Lat": "35.7485605",
+        "Lon": "-5.3455755"
+      },
+      {
+        "Neighborhood": "Port De M'Diq",
+        "City": "M'Diq",
+        "Lat": "35.6606107",
+        "Lon": "-5.2925003"
+      },
+      {
+        "Neighborhood": "Restinga",
+        "City": "M'Diq",
+        "Lat": "35.7641866",
+        "Lon": "-5.3477553"
+      }
+    ]
+  },
+  {
+    "City": "Marrakech",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Aeroport Menara",
+        "City": "Marrakech",
+        "Lat": "31.60587285",
+        "Lon": "-8.032439841503606"
+      },
+      {
+        "Neighborhood": "Agdal",
+        "City": "Marrakech",
+        "Lat": "31.592774300000002",
+        "Lon": "-7.998792511838253"
+      },
+      {
+        "Neighborhood": "Amerchich",
+        "City": "Marrakech",
+        "Lat": "31.6695899",
+        "Lon": "-8.0044112"
+      },
+      {
+        "Neighborhood": "Ancienne Medina",
+        "City": "Marrakech",
+        "Lat": "32.2988678",
+        "Lon": "-9.2406558"
+      },
+      {
+        "Neighborhood": "Assif",
+        "City": "Marrakech",
+        "Lat": "31.6543389",
+        "Lon": "-8.0056702"
+      },
+      {
+        "Neighborhood": "Azzouzia",
+        "City": "Marrakech",
+        "Lat": "31.6886233",
+        "Lon": "-8.0722124"
+      },
+      {
+        "Neighborhood": "Chwiter",
+        "City": "Marrakech",
+        "Lat": "31.5766491",
+        "Lon": "-7.8107131"
+      },
+      {
+        "Neighborhood": "Daoudiat",
+        "City": "Marrakech",
+        "Lat": "31.6564769",
+        "Lon": "-8.0032044"
+      },
+      {
+        "Neighborhood": "Douar Chouhada",
+        "City": "Marrakech",
+        "Lat": "31.5970564",
+        "Lon": "-7.9605552"
+      },
+      {
+        "Neighborhood": "Douar Iziki",
+        "City": "Marrakech",
+        "Lat": "31.6256553",
+        "Lon": "-8.0636222"
+      },
+      {
+        "Neighborhood": "Douar Laaskar",
+        "City": "Marrakech",
+        "Lat": "31.626456",
+        "Lon": "-8.0428053"
+      },
+      {
+        "Neighborhood": "Douar Zemrane",
+        "City": "Marrakech",
+        "Lat": "31.5578588",
+        "Lon": "-7.9445489"
+      },
+      {
+        "Neighborhood": "Essaada",
+        "City": "Marrakech",
+        "Lat": "31.67442655",
+        "Lon": "-8.055078366282903"
+      },
+      {
+        "Neighborhood": "Gueliz",
+        "City": "Marrakech",
+        "Lat": "31.6321881",
+        "Lon": "-8.0108135"
+      },
+      {
+        "Neighborhood": "Hay Al Massar",
+        "City": "Marrakech",
+        "Lat": "31.6741233",
+        "Lon": "-8.0311389"
+      },
+      {
+        "Neighborhood": "Hay Azli",
+        "City": "Marrakech",
+        "Lat": "31.6204715",
+        "Lon": "-8.0450685"
+      },
+      {
+        "Neighborhood": "Hay Hassani",
+        "City": "Marrakech",
+        "Lat": "31.6308031",
+        "Lon": "-8.0447225"
+      },
+      {
+        "Neighborhood": "Hay Inara",
+        "City": "Marrakech",
+        "Lat": "31.6409648",
+        "Lon": "-8.0560278"
+      },
+      {
+        "Neighborhood": "Hay Menara",
+        "City": "Marrakech",
+        "Lat": "31.6329115",
+        "Lon": "-8.044396837024973"
+      },
+      {
+        "Neighborhood": "Hay Nahda",
+        "City": "Marrakech",
+        "Lat": "32.3176696",
+        "Lon": "-9.2227357"
+      },
+      {
+        "Neighborhood": "Hivernage",
+        "City": "Marrakech",
+        "Lat": "31.6225589",
+        "Lon": "-8.0083128"
+      },
+      {
+        "Neighborhood": "Issil",
+        "City": "Marrakech",
+        "Lat": "31.66107705",
+        "Lon": "-8.010346812433827"
+      },
+      {
+        "Neighborhood": "Izdihar",
+        "City": "Marrakech",
+        "Lat": "31.6640086",
+        "Lon": "-8.0318318"
+      },
+      {
+        "Neighborhood": "Jawhar",
+        "City": "Marrakech",
+        "Lat": "31.6556887",
+        "Lon": "-8.039764977987783"
+      },
+      {
+        "Neighborhood": "Kasbah",
+        "City": "Marrakech",
+        "Lat": "31.5971984",
+        "Lon": "-7.987058133174472"
+      },
+      {
+        "Neighborhood": "Lakssour",
+        "City": "Marrakech",
+        "Lat": "31.6275117",
+        "Lon": "-7.9944686"
+      },
+      {
+        "Neighborhood": "Mellah",
+        "City": "Marrakech",
+        "Lat": "31.6210194",
+        "Lon": "-7.9842356"
+      },
+      {
+        "Neighborhood": "Palmeraie",
+        "City": "Marrakech",
+        "Lat": "31.6747627",
+        "Lon": "-7.982627"
+      },
+      {
+        "Neighborhood": "Quartier Industriel De Sidi Ghanem",
+        "City": "Marrakech",
+        "Lat": "31.6718587",
+        "Lon": "-8.04615761034119"
+      },
+      {
+        "Neighborhood": "Riad Essalam",
+        "City": "Marrakech",
+        "Lat": "31.67912965",
+        "Lon": "-8.003817175106994"
+      },
+      {
+        "Neighborhood": "Route De Safi",
+        "City": "Marrakech",
+        "Lat": "31.52799373623044",
+        "Lon": "-9.689060523186882"
+      },
+      {
+        "Neighborhood": "Sanaoubar",
+        "City": "Marrakech",
+        "Lat": "31.6686216",
+        "Lon": "-8.0280919"
+      },
+      {
+        "Neighborhood": "Semlalia",
+        "City": "Marrakech",
+        "Lat": "31.6450736",
+        "Lon": "-8.014105194997034"
+      },
+      {
+        "Neighborhood": "Sidi Abbad",
+        "City": "Marrakech",
+        "Lat": "31.654225",
+        "Lon": "-8.0162102"
+      },
+      {
+        "Neighborhood": "Sidi Abdellah Ghiat",
+        "City": "Marrakech",
+        "Lat": "31.5106075",
+        "Lon": "-7.833295678726914"
+      },
+      {
+        "Neighborhood": "Socoma",
+        "City": "Marrakech",
+        "Lat": "31.6192533",
+        "Lon": "-8.064403"
+      },
+      {
+        "Neighborhood": "Targa",
+        "City": "Marrakech",
+        "Lat": "31.644363741045147",
+        "Lon": "-8.04216324753423"
+      }
+    ]
+  },
+  {
+    "City": "Martil",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Cabo Negro",
+        "City": "Martil",
+        "Lat": "35.653635949999995",
+        "Lon": "-5.281208241953909"
+      },
+      {
+        "Neighborhood": "Miramar",
+        "City": "Martil",
+        "Lat": "35.6191982",
+        "Lon": "-5.2729363"
+      }
+    ]
+  },
+  {
+    "City": "Mehdya",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Kasbat El Mehdia",
+        "City": "Mehdya",
+        "Lat": "34.2607615",
+        "Lon": "-6.6495437"
+      },
+      {
+        "Neighborhood": "Sidi Boughaba",
+        "City": "Mehdya",
+        "Lat": "34.21103525",
+        "Lon": "-6.691739245517928"
+      }
+    ]
+  },
+  {
+    "City": "Meknès",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Ben Mohammed",
+        "City": "Meknès",
+        "Lat": "33.90336087194679",
+        "Lon": "-5.543983618926451"
+      },
+      {
+        "Neighborhood": "Boustane Ouislane",
+        "City": "Meknès",
+        "Lat": "33.9018564",
+        "Lon": "-5.48684"
+      },
+      {
+        "Neighborhood": "Douar Nzala",
+        "City": "Meknès",
+        "Lat": "34.0703788",
+        "Lon": "-5.3266112"
+      },
+      {
+        "Neighborhood": "El Bassatine",
+        "City": "Meknès",
+        "Lat": "33.89133270000001",
+        "Lon": "-5.5072536058809565"
+      },
+      {
+        "Neighborhood": "El Menzeh",
+        "City": "Meknès",
+        "Lat": "33.9050914",
+        "Lon": "-5.529578"
+      },
+      {
+        "Neighborhood": "Hamria",
+        "City": "Meknès",
+        "Lat": "33.8970571",
+        "Lon": "-5.540897"
+      },
+      {
+        "Neighborhood": "Hay Elamal",
+        "City": "Meknès",
+        "Lat": "34.5459016",
+        "Lon": "-4.6382193"
+      },
+      {
+        "Neighborhood": "Hay Essalam",
+        "City": "Meknès",
+        "Lat": "33.8851929",
+        "Lon": "-5.5792294"
+      },
+      {
+        "Neighborhood": "Marjane",
+        "City": "Meknès",
+        "Lat": "33.8658205",
+        "Lon": "-5.5849201"
+      },
+      {
+        "Neighborhood": "Mellah",
+        "City": "Meknès",
+        "Lat": "33.8923599",
+        "Lon": "-5.5693456"
+      },
+      {
+        "Neighborhood": "Naim",
+        "City": "Meknès",
+        "Lat": "33.8512579",
+        "Lon": "-5.5573025"
+      },
+      {
+        "Neighborhood": "Plaisance",
+        "City": "Meknès",
+        "Lat": "33.9012001",
+        "Lon": "-5.5032079"
+      },
+      {
+        "Neighborhood": "Riad Ouislane",
+        "City": "Meknès",
+        "Lat": "33.9059594",
+        "Lon": "-5.4784575"
+      },
+      {
+        "Neighborhood": "Ryad",
+        "City": "Meknès",
+        "Lat": "33.8983742",
+        "Lon": "-5.5667082"
+      },
+      {
+        "Neighborhood": "Sbata",
+        "City": "Meknès",
+        "Lat": "33.8807662",
+        "Lon": "-5.5668732"
+      },
+      {
+        "Neighborhood": "Sidi Bouzekri",
+        "City": "Meknès",
+        "Lat": "33.8588975",
+        "Lon": "-5.5329894"
+      },
+      {
+        "Neighborhood": "Wifaq",
+        "City": "Meknès",
+        "Lat": "33.8978109",
+        "Lon": "-5.57953"
+      },
+      {
+        "Neighborhood": "Yasmine",
+        "City": "Meknès",
+        "Lat": "34.0257554",
+        "Lon": "-5.0194835"
+      },
+      {
+        "Neighborhood": "Zahwa",
+        "City": "Meknès",
+        "Lat": "33.8709161",
+        "Lon": "-5.53325"
+      },
+      {
+        "Neighborhood": "Zitoune",
+        "City": "Meknès",
+        "Lat": "33.862455936195666",
+        "Lon": "-5.545609142123738"
+      }
+    ]
+  },
+  {
+    "City": "Mohammédia",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Anfa",
+        "City": "Mohammédia",
+        "Lat": "33.696433539225126",
+        "Lon": "-7.379440731900579"
+      },
+      {
+        "Neighborhood": "Hassania",
+        "City": "Mohammédia",
+        "Lat": "33.685229",
+        "Lon": "-7.3792832"
+      },
+      {
+        "Neighborhood": "Houria",
+        "City": "Mohammédia",
+        "Lat": "33.6916237",
+        "Lon": "-7.3789549"
+      },
+      {
+        "Neighborhood": "La Colline",
+        "City": "Mohammédia",
+        "Lat": "33.6950989",
+        "Lon": "-7.372396"
+      },
+      {
+        "Neighborhood": "Monica",
+        "City": "Mohammédia",
+        "Lat": "33.7121484",
+        "Lon": "-7.3550503"
+      },
+      {
+        "Neighborhood": "Nassim",
+        "City": "Mohammédia",
+        "Lat": "33.67979055",
+        "Lon": "-7.401259897387122"
+      },
+      {
+        "Neighborhood": "Port",
+        "City": "Mohammédia",
+        "Lat": "33.7083348",
+        "Lon": "-7.4015728"
+      },
+      {
+        "Neighborhood": "Quartier Du Soleil",
+        "City": "Mohammédia",
+        "Lat": "33.707119",
+        "Lon": "-7.3575802"
+      },
+      {
+        "Neighborhood": "Rachidia",
+        "City": "Mohammédia",
+        "Lat": "33.6863024",
+        "Lon": "-7.3816424"
+      },
+      {
+        "Neighborhood": "Riad Essalam",
+        "City": "Mohammédia",
+        "Lat": "33.7000252",
+        "Lon": "-7.3600006"
+      },
+      {
+        "Neighborhood": "Rte Des Facultes",
+        "City": "Mohammédia",
+        "Lat": "33.705558471650015",
+        "Lon": "-7.360479561912834"
+      },
+      {
+        "Neighborhood": "Zone Industrielle",
+        "City": "Mohammédia",
+        "Lat": "33.6639918",
+        "Lon": "-7.40913656186414"
+      }
+    ]
+  },
+  {
+    "City": "Médiouna",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Lahraouyine",
+        "City": "Médiouna",
+        "Lat": "33.540830299999996",
+        "Lon": "-7.524186062486135"
+      },
+      {
+        "Neighborhood": "Mediouna",
+        "City": "Médiouna",
+        "Lat": "33.4579747",
+        "Lon": "-7.516905"
+      },
+      {
+        "Neighborhood": "Merchich",
+        "City": "Médiouna",
+        "Lat": "33.455029",
+        "Lon": "-7.5400067"
+      },
+      {
+        "Neighborhood": "Nouvelle Lahraouyine",
+        "City": "Médiouna",
+        "Lat": "33.5278213",
+        "Lon": "-7.5264416"
+      },
+      {
+        "Neighborhood": "Sidi Hajjaj Oued Hassar",
+        "City": "Médiouna",
+        "Lat": "33.516653149999996",
+        "Lon": "-7.440592856116206"
+      },
+      {
+        "Neighborhood": "Tit Mellil",
+        "City": "Médiouna",
+        "Lat": "33.556",
+        "Lon": "-7.484"
+      },
+      {
+        "Neighborhood": "Tit Mellil (Sidi Hajjaj Oued Hassar)",
+        "City": "Médiouna",
+        "Lat": "33.5410946",
+        "Lon": "-7.4336422"
+      }
+    ]
+  },
+  {
+    "City": "Nador",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Hay Al Matar",
+        "City": "Nador",
+        "Lat": "35.1501931",
+        "Lon": "-2.9183282"
+      },
+      {
+        "Neighborhood": "Oulad Mimoun",
+        "City": "Nador",
+        "Lat": "35.1706478",
+        "Lon": "-2.9363971"
+      },
+      {
+        "Neighborhood": "Quartier Administratif",
+        "City": "Nador",
+        "Lat": "35.1751029",
+        "Lon": "-2.9255379"
+      }
+    ]
+  },
+  {
+    "City": "Nouaceur",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Almaz",
+        "City": "Nouaceur",
+        "Lat": "33.508014",
+        "Lon": "-7.6852231"
+      },
+      {
+        "Neighborhood": "Annasr",
+        "City": "Nouaceur",
+        "Lat": "33.4234586",
+        "Lon": "-7.6811403"
+      },
+      {
+        "Neighborhood": "Nouaceur",
+        "City": "Nouaceur",
+        "Lat": "33.3758907",
+        "Lon": "-7.6206668"
+      },
+      {
+        "Neighborhood": "Saleh",
+        "City": "Nouaceur",
+        "Lat": "33.4275887",
+        "Lon": "-7.6501927"
+      }
+    ]
+  },
+  {
+    "City": "Ouarzazate",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Aeroport International De Ouarzazate",
+        "City": "Ouarzazate",
+        "Lat": "30.9381968",
+        "Lon": "-6.908925937525126"
+      },
+      {
+        "Neighborhood": "Atlas",
+        "City": "Ouarzazate",
+        "Lat": "30.9209579",
+        "Lon": "-6.9160196"
+      },
+      {
+        "Neighborhood": "Hay Fedragoum",
+        "City": "Ouarzazate",
+        "Lat": "30.9397095",
+        "Lon": "-6.9382365"
+      },
+      {
+        "Neighborhood": "Hay Mohammadi",
+        "City": "Ouarzazate",
+        "Lat": "30.9397095",
+        "Lon": "-6.9382365"
+      },
+      {
+        "Neighborhood": "Kasbah Taourirt",
+        "City": "Ouarzazate",
+        "Lat": "30.9201242",
+        "Lon": "-6.8994339"
+      },
+      {
+        "Neighborhood": "Sidi Daoud",
+        "City": "Ouarzazate",
+        "Lat": "30.924642900000002",
+        "Lon": "-6.89190827948895"
+      },
+      {
+        "Neighborhood": "Tassoumaat",
+        "City": "Ouarzazate",
+        "Lat": "30.9216995",
+        "Lon": "-6.92682046824554"
+      },
+      {
+        "Neighborhood": "Zone Industrielle Ouarzazate",
+        "City": "Ouarzazate",
+        "Lat": "30.9325607",
+        "Lon": "-6.934587303171251"
+      }
+    ]
+  },
+  {
+    "City": "Oujda",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Agdal",
+        "City": "Oujda",
+        "Lat": "34.6754794",
+        "Lon": "-1.857572"
+      },
+      {
+        "Neighborhood": "Centre Ville",
+        "City": "Oujda",
+        "Lat": "34.680741",
+        "Lon": "-1.9176354"
+      },
+      {
+        "Neighborhood": "Cgi",
+        "City": "Oujda",
+        "Lat": "34.7182515",
+        "Lon": "-1.9238896"
+      },
+      {
+        "Neighborhood": "Hay Al Andalous",
+        "City": "Oujda",
+        "Lat": "34.6598343",
+        "Lon": "-1.8866257"
+      },
+      {
+        "Neighborhood": "Hay Al Boustane",
+        "City": "Oujda",
+        "Lat": "34.6973399",
+        "Lon": "-1.8855601"
+      },
+      {
+        "Neighborhood": "Hay Al Farah",
+        "City": "Oujda",
+        "Lat": "34.6819294",
+        "Lon": "-1.868719"
+      },
+      {
+        "Neighborhood": "Hay Al Fath",
+        "City": "Oujda",
+        "Lat": "34.6927712",
+        "Lon": "-1.8765835"
+      },
+      {
+        "Neighborhood": "Hay Al Hadiqa",
+        "City": "Oujda",
+        "Lat": "34.6771592",
+        "Lon": "-1.901823"
+      },
+      {
+        "Neighborhood": "Hay Al Massira",
+        "City": "Oujda",
+        "Lat": "34.6682164",
+        "Lon": "-1.908316"
+      },
+      {
+        "Neighborhood": "Hay Al Miloud",
+        "City": "Oujda",
+        "Lat": "34.7193953",
+        "Lon": "-1.8959041"
+      },
+      {
+        "Neighborhood": "Hay Boudir",
+        "City": "Oujda",
+        "Lat": "34.6886811",
+        "Lon": "-1.9075503"
+      },
+      {
+        "Neighborhood": "Hay Charbon",
+        "City": "Oujda",
+        "Lat": "34.7029483",
+        "Lon": "-1.9042995"
+      },
+      {
+        "Neighborhood": "Hay Ennasr",
+        "City": "Oujda",
+        "Lat": "34.7112994",
+        "Lon": "-1.8916126"
+      },
+      {
+        "Neighborhood": "Hay Ghar Al Baroud",
+        "City": "Oujda",
+        "Lat": "34.7118109",
+        "Lon": "-1.8844028"
+      },
+      {
+        "Neighborhood": "Hay Gtar",
+        "City": "Oujda",
+        "Lat": "34.6557983",
+        "Lon": "-1.950349"
+      },
+      {
+        "Neighborhood": "Hay Maghreb Al Arabi",
+        "City": "Oujda",
+        "Lat": "34.687235",
+        "Lon": "-1.9039585"
+      },
+      {
+        "Neighborhood": "Hay Rjah Fi Allah",
+        "City": "Oujda",
+        "Lat": "34.7051653",
+        "Lon": "-1.8985381"
+      },
+      {
+        "Neighborhood": "Hay Skiker",
+        "City": "Oujda",
+        "Lat": "34.7225723",
+        "Lon": "-1.9031876"
+      },
+      {
+        "Neighborhood": "Hay Tennis",
+        "City": "Oujda",
+        "Lat": "34.6974116",
+        "Lon": "-1.8966196"
+      },
+      {
+        "Neighborhood": "Iris",
+        "City": "Oujda",
+        "Lat": "34.6593936",
+        "Lon": "-1.9168944"
+      },
+      {
+        "Neighborhood": "Jawhara",
+        "City": "Oujda",
+        "Lat": "34.6690093",
+        "Lon": "-1.9321003"
+      },
+      {
+        "Neighborhood": "Jorf Lakhdar",
+        "City": "Oujda",
+        "Lat": "34.7008689",
+        "Lon": "-1.9534668"
+      },
+      {
+        "Neighborhood": "Lazaret",
+        "City": "Oujda",
+        "Lat": "34.6838082",
+        "Lon": "-1.8780426"
+      },
+      {
+        "Neighborhood": "Nahda",
+        "City": "Oujda",
+        "Lat": "34.6797686",
+        "Lon": "-1.9500751"
+      },
+      {
+        "Neighborhood": "Nour",
+        "City": "Oujda",
+        "Lat": "34.6737834",
+        "Lon": "-1.9423498"
+      },
+      {
+        "Neighborhood": "Riad Isly",
+        "City": "Oujda",
+        "Lat": "34.722091899999995",
+        "Lon": "-1.9111915048040728"
+      },
+      {
+        "Neighborhood": "Sidi Yahya",
+        "City": "Oujda",
+        "Lat": "34.66502925",
+        "Lon": "-1.863802754934208"
+      },
+      {
+        "Neighborhood": "Zitoune",
+        "City": "Oujda",
+        "Lat": "34.6738279",
+        "Lon": "-1.8866757"
+      },
+      {
+        "Neighborhood": "Zone Industrielle Oujda",
+        "City": "Oujda",
+        "Lat": "34.7051386",
+        "Lon": "-1.8889593727070129"
+      }
+    ]
+  },
+  {
+    "City": "Rabat",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Agdal",
+        "City": "Rabat",
+        "Lat": "33.9983119",
+        "Lon": "-6.8542908"
+      },
+      {
+        "Neighborhood": "Akkari",
+        "City": "Rabat",
+        "Lat": "34.008773399999995",
+        "Lon": "-6.859039412540392"
+      },
+      {
+        "Neighborhood": "Al Irfane",
+        "City": "Rabat",
+        "Lat": "33.9816535",
+        "Lon": "-6.8646296"
+      },
+      {
+        "Neighborhood": "Bas Agdal",
+        "City": "Rabat",
+        "Lat": "34.00288436805322",
+        "Lon": "-6.858220283949638"
+      },
+      {
+        "Neighborhood": "Bir Kacem",
+        "City": "Rabat",
+        "Lat": "33.96029203446176",
+        "Lon": "-6.838712017499317"
+      },
+      {
+        "Neighborhood": "Bouitate",
+        "City": "Rabat",
+        "Lat": "34.5813004",
+        "Lon": "-5.9509642"
+      },
+      {
+        "Neighborhood": "Centre Ville Rabat",
+        "City": "Rabat",
+        "Lat": "34.6816413",
+        "Lon": "-1.9107732"
+      },
+      {
+        "Neighborhood": "Cheikh Zaid",
+        "City": "Rabat",
+        "Lat": "33.977500250000006",
+        "Lon": "-6.869545746608175"
+      },
+      {
+        "Neighborhood": "Complexe Sportif",
+        "City": "Rabat",
+        "Lat": "34.2304656",
+        "Lon": "-6.544209239894652"
+      },
+      {
+        "Neighborhood": "Corniche De Rabat",
+        "City": "Rabat",
+        "Lat": "34.0258963",
+        "Lon": "-6.8485412"
+      },
+      {
+        "Neighborhood": "Dar Essalam",
+        "City": "Rabat",
+        "Lat": "33.93990429398732",
+        "Lon": "-6.939032489879173"
+      },
+      {
+        "Neighborhood": "Diour Jamaa",
+        "City": "Rabat",
+        "Lat": "34.0135783",
+        "Lon": "-6.8467905980154065"
+      },
+      {
+        "Neighborhood": "El Youssoufia",
+        "City": "Rabat",
+        "Lat": "33.9845243",
+        "Lon": "-6.8203304"
+      },
+      {
+        "Neighborhood": "Guich Oudaya",
+        "City": "Rabat",
+        "Lat": "33.9368917",
+        "Lon": "-6.8870616"
+      },
+      {
+        "Neighborhood": "Hassan",
+        "City": "Rabat",
+        "Lat": "34.0139405",
+        "Lon": "-6.8256177"
+      },
+      {
+        "Neighborhood": "Haut Agdal",
+        "City": "Rabat",
+        "Lat": "33.9931706",
+        "Lon": "-6.857981046274032"
+      },
+      {
+        "Neighborhood": "Hay Al Amal",
+        "City": "Rabat",
+        "Lat": "34.6816413",
+        "Lon": "-1.9107732"
+      },
+      {
+        "Neighborhood": "Hay Al Barid",
+        "City": "Rabat",
+        "Lat": "33.9198473",
+        "Lon": "-6.8899224"
+      },
+      {
+        "Neighborhood": "Hay Al Fath",
+        "City": "Rabat",
+        "Lat": "33.9693645",
+        "Lon": "-6.8991853"
+      },
+      {
+        "Neighborhood": "Hay Al Kora",
+        "City": "Rabat",
+        "Lat": "33.9962254",
+        "Lon": "-6.8775353"
+      },
+      {
+        "Neighborhood": "Hay Al Massira",
+        "City": "Rabat",
+        "Lat": "33.9707271",
+        "Lon": "-6.8941865"
+      },
+      {
+        "Neighborhood": "Hay Bouhlal",
+        "City": "Rabat",
+        "Lat": "33.9938882",
+        "Lon": "-6.8773241"
+      },
+      {
+        "Neighborhood": "Hay Nahda",
+        "City": "Rabat",
+        "Lat": "33.9779476",
+        "Lon": "-6.8161983"
+      },
+      {
+        "Neighborhood": "Kebibat",
+        "City": "Rabat",
+        "Lat": "34.01301129589855",
+        "Lon": "-6.852070801557888"
+      },
+      {
+        "Neighborhood": "L'Ocean",
+        "City": "Rabat",
+        "Lat": "34.87626",
+        "Lon": "-6.2944834"
+      },
+      {
+        "Neighborhood": "Medina",
+        "City": "Rabat",
+        "Lat": "34.01936800137125",
+        "Lon": "-6.827767881305961"
+      },
+      {
+        "Neighborhood": "Residence Al Mansour",
+        "City": "Rabat",
+        "Lat": "34.05081465",
+        "Lon": "-6.79894884458459"
+      },
+      {
+        "Neighborhood": "Riyad",
+        "City": "Rabat",
+        "Lat": "33.951829000000004",
+        "Lon": "-6.884073"
+      },
+      {
+        "Neighborhood": "Souissi",
+        "City": "Rabat",
+        "Lat": "33.9688418",
+        "Lon": "-6.8348164"
+      },
+      {
+        "Neighborhood": "Takadoum",
+        "City": "Rabat",
+        "Lat": "33.9790992",
+        "Lon": "-6.8206029"
+      },
+      {
+        "Neighborhood": "Touarga",
+        "City": "Rabat",
+        "Lat": "34.007331",
+        "Lon": "-6.829443"
+      }
+    ]
+  },
+  {
+    "City": "Safi",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Achbar",
+        "City": "Safi",
+        "Lat": "32.3047804",
+        "Lon": "-9.2374372"
+      },
+      {
+        "Neighborhood": "Amouni",
+        "City": "Safi",
+        "Lat": "32.249175550000004",
+        "Lon": "-9.255698991866478"
+      },
+      {
+        "Neighborhood": "Annahda",
+        "City": "Safi",
+        "Lat": "31.5968822",
+        "Lon": "-8.0434176"
+      },
+      {
+        "Neighborhood": "Assalam",
+        "City": "Safi",
+        "Lat": "32.2572116",
+        "Lon": "-9.2498149"
+      },
+      {
+        "Neighborhood": "Azib Drai",
+        "City": "Safi",
+        "Lat": "32.2943695",
+        "Lon": "-9.2186023"
+      },
+      {
+        "Neighborhood": "Bouizate",
+        "City": "Safi",
+        "Lat": "32.2267158",
+        "Lon": "-9.2176046"
+      },
+      {
+        "Neighborhood": "Chankit",
+        "City": "Safi",
+        "Lat": "32.3168403",
+        "Lon": "-9.225099"
+      },
+      {
+        "Neighborhood": "Course",
+        "City": "Safi",
+        "Lat": "32.2752668",
+        "Lon": "-9.2429793"
+      },
+      {
+        "Neighborhood": "El Massira",
+        "City": "Safi",
+        "Lat": "31.5159833",
+        "Lon": "-9.7648725"
+      },
+      {
+        "Neighborhood": "Errahma",
+        "City": "Safi",
+        "Lat": "32.3153352",
+        "Lon": "-9.2416214"
+      },
+      {
+        "Neighborhood": "Essaada",
+        "City": "Safi",
+        "Lat": "31.67442655",
+        "Lon": "-8.055078366282903"
+      },
+      {
+        "Neighborhood": "Haj Abderrahman",
+        "City": "Safi",
+        "Lat": "32.2304777",
+        "Lon": "-9.2286092"
+      },
+      {
+        "Neighborhood": "Hay Anas",
+        "City": "Safi",
+        "Lat": "32.2823611",
+        "Lon": "-9.2372705"
+      },
+      {
+        "Neighborhood": "Hay Libiar",
+        "City": "Safi",
+        "Lat": "32.272764",
+        "Lon": "-9.2462398"
+      },
+      {
+        "Neighborhood": "Hay Ourida",
+        "City": "Safi",
+        "Lat": "32.2794403",
+        "Lon": "-9.237807"
+      },
+      {
+        "Neighborhood": "Hay Saida",
+        "City": "Safi",
+        "Lat": "32.2816723",
+        "Lon": "-9.2271428"
+      },
+      {
+        "Neighborhood": "Kaouki",
+        "City": "Safi",
+        "Lat": "32.2561618",
+        "Lon": "-9.2502106"
+      },
+      {
+        "Neighborhood": "Kariat Chems",
+        "City": "Safi",
+        "Lat": "32.2860655",
+        "Lon": "-9.2008502"
+      },
+      {
+        "Neighborhood": "Kayjoty",
+        "City": "Safi",
+        "Lat": "32.2437779",
+        "Lon": "-9.24109"
+      },
+      {
+        "Neighborhood": "Laarisa",
+        "City": "Safi",
+        "Lat": "32.2643817",
+        "Lon": "-9.2393519"
+      },
+      {
+        "Neighborhood": "Meftah Arraha",
+        "City": "Safi",
+        "Lat": "32.304544",
+        "Lon": "-9.2101129"
+      },
+      {
+        "Neighborhood": "Mestari",
+        "City": "Safi",
+        "Lat": "32.2851366",
+        "Lon": "-9.2325928"
+      },
+      {
+        "Neighborhood": "Miftah El Kheir",
+        "City": "Safi",
+        "Lat": "32.3162311",
+        "Lon": "-9.2308026"
+      },
+      {
+        "Neighborhood": "Nouvelle Ville",
+        "City": "Safi",
+        "Lat": "31.5106032",
+        "Lon": "-9.7579112"
+      },
+      {
+        "Neighborhood": "Port De Safi",
+        "City": "Safi",
+        "Lat": "32.307808300000005",
+        "Lon": "-9.244363299488366"
+      },
+      {
+        "Neighborhood": "Quartier Industriel De Safi",
+        "City": "Safi",
+        "Lat": "32.2631478",
+        "Lon": "-9.2560031"
+      },
+      {
+        "Neighborhood": "Rhat Rih",
+        "City": "Safi",
+        "Lat": "32.2928994",
+        "Lon": "-9.2413056"
+      },
+      {
+        "Neighborhood": "Sania Zine El Abidine",
+        "City": "Safi",
+        "Lat": "32.2812675",
+        "Lon": "-9.2309742"
+      },
+      {
+        "Neighborhood": "Sidi Abdelkarim",
+        "City": "Safi",
+        "Lat": "32.3093243",
+        "Lon": "-9.223742430992456"
+      },
+      {
+        "Neighborhood": "Sidi Abderahman",
+        "City": "Safi",
+        "Lat": "32.317384700000005",
+        "Lon": "-9.187977525478978"
+      },
+      {
+        "Neighborhood": "Sidi Bouzid",
+        "City": "Safi",
+        "Lat": "32.321915700000005",
+        "Lon": "-9.255161381462642"
+      }
+    ]
+  },
+  {
+    "City": "Salé",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Abouab Sala",
+        "City": "Salé",
+        "Lat": "33.9267824",
+        "Lon": "-6.9291602"
+      },
+      {
+        "Neighborhood": "Ameur",
+        "City": "Salé",
+        "Lat": "34.0921706",
+        "Lon": "-6.663507506112724"
+      },
+      {
+        "Neighborhood": "Bab Al Bahr",
+        "City": "Salé",
+        "Lat": "34.0314104",
+        "Lon": "-6.8271762"
+      },
+      {
+        "Neighborhood": "Bettana",
+        "City": "Salé",
+        "Lat": "34.0313433",
+        "Lon": "-6.8108383"
+      },
+      {
+        "Neighborhood": "Bouknadel",
+        "City": "Salé",
+        "Lat": "34.0818189",
+        "Lon": "-6.7866162"
+      },
+      {
+        "Neighborhood": "Bouknadel (Ameur)",
+        "City": "Salé",
+        "Lat": "34.095320099999995",
+        "Lon": "-6.7672263328168505"
+      },
+      {
+        "Neighborhood": "Bouregrag",
+        "City": "Salé",
+        "Lat": "34.0224306",
+        "Lon": "-6.798685822641073"
+      },
+      {
+        "Neighborhood": "Hay Andalous",
+        "City": "Salé",
+        "Lat": "33.933463099422646",
+        "Lon": "-6.931946068375627"
+      },
+      {
+        "Neighborhood": "Hay Chmaou",
+        "City": "Salé",
+        "Lat": "34.0665274",
+        "Lon": "-6.8007033"
+      },
+      {
+        "Neighborhood": "Hay Inbiat",
+        "City": "Salé",
+        "Lat": "34.0581039",
+        "Lon": "-6.7779803"
+      },
+      {
+        "Neighborhood": "Hay Karima",
+        "City": "Salé",
+        "Lat": "34.0506941",
+        "Lon": "-6.797682"
+      },
+      {
+        "Neighborhood": "Hay Mabrouka",
+        "City": "Salé",
+        "Lat": "33.890892",
+        "Lon": "-6.3107823"
+      },
+      {
+        "Neighborhood": "Hay Moulay Ismail",
+        "City": "Salé",
+        "Lat": "34.0349806",
+        "Lon": "-6.786274890586542"
+      },
+      {
+        "Neighborhood": "Hay Rahma",
+        "City": "Salé",
+        "Lat": "34.0578583",
+        "Lon": "-6.7978164"
+      },
+      {
+        "Neighborhood": "Hay Salam",
+        "City": "Salé",
+        "Lat": "34.046615",
+        "Lon": "-6.7757796"
+      },
+      {
+        "Neighborhood": "Hssain",
+        "City": "Salé",
+        "Lat": "33.99597745974929",
+        "Lon": "-6.748949484481761"
+      },
+      {
+        "Neighborhood": "Layayda",
+        "City": "Salé",
+        "Lat": "34.0596186",
+        "Lon": "-6.7697982"
+      },
+      {
+        "Neighborhood": "Medina",
+        "City": "Salé",
+        "Lat": "34.037",
+        "Lon": "-6.819"
+      },
+      {
+        "Neighborhood": "Oulja",
+        "City": "Salé",
+        "Lat": "33.9973581",
+        "Lon": "-6.7654809"
+      },
+      {
+        "Neighborhood": "Said Hajji",
+        "City": "Salé",
+        "Lat": "34.0745936",
+        "Lon": "-6.7933421"
+      },
+      {
+        "Neighborhood": "Sala El Jadida",
+        "City": "Salé",
+        "Lat": "34.0015565",
+        "Lon": "-6.746589952869112"
+      },
+      {
+        "Neighborhood": "Sidi Moussa",
+        "City": "Salé",
+        "Lat": "34.0413652",
+        "Lon": "-6.8202537"
+      },
+      {
+        "Neighborhood": "Tabriquet",
+        "City": "Salé",
+        "Lat": "34.0554847",
+        "Lon": "-6.788725944894953"
+      },
+      {
+        "Neighborhood": "Technopolis",
+        "City": "Salé",
+        "Lat": "33.9906417",
+        "Lon": "-6.719408644443071"
+      },
+      {
+        "Neighborhood": "Zarbia",
+        "City": "Salé",
+        "Lat": "34.01955484249249",
+        "Lon": "-6.744114010344206"
+      },
+      {
+        "Neighborhood": "Zone Industrielle",
+        "City": "Salé",
+        "Lat": "33.9902383",
+        "Lon": "-6.8062624"
+      }
+    ]
+  },
+  {
+    "City": "Sefrou",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Avenue Mohamed V",
+        "City": "Sefrou",
+        "Lat": "33.83691130302277",
+        "Lon": "-4.842600915969199"
+      },
+      {
+        "Neighborhood": "Hay Habbouna",
+        "City": "Sefrou",
+        "Lat": "33.8268872",
+        "Lon": "-4.8328642"
+      },
+      {
+        "Neighborhood": "Hay Mhirez",
+        "City": "Sefrou",
+        "Lat": "33.8350903",
+        "Lon": "-4.832433"
+      },
+      {
+        "Neighborhood": "Sidi Ahmed Tadli",
+        "City": "Sefrou",
+        "Lat": "33.8311794",
+        "Lon": "-4.8431816"
+      },
+      {
+        "Neighborhood": "Sidi Ali Bousserghine",
+        "City": "Sefrou",
+        "Lat": "33.82315034159735",
+        "Lon": "-4.843412565042204"
+      }
+    ]
+  },
+  {
+    "City": "Settat",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Cite Universitaire",
+        "City": "Settat",
+        "Lat": "33.02826675",
+        "Lon": "-7.615873053407096"
+      },
+      {
+        "Neighborhood": "El Kheir",
+        "City": "Settat",
+        "Lat": "32.99222",
+        "Lon": "-7.6086571"
+      },
+      {
+        "Neighborhood": "Hay Al Farah",
+        "City": "Settat",
+        "Lat": "33.008527",
+        "Lon": "-7.6357419"
+      },
+      {
+        "Neighborhood": "Hay Alouane",
+        "City": "Settat",
+        "Lat": "33.009776",
+        "Lon": "-7.605038"
+      },
+      {
+        "Neighborhood": "Hay El Kamal",
+        "City": "Settat",
+        "Lat": "33.0048201",
+        "Lon": "-7.6402816"
+      },
+      {
+        "Neighborhood": "Hay Hassani",
+        "City": "Settat",
+        "Lat": "32.9948368",
+        "Lon": "-7.6491703"
+      },
+      {
+        "Neighborhood": "Hay Kassam",
+        "City": "Settat",
+        "Lat": "33.0071381",
+        "Lon": "-7.6311501"
+      },
+      {
+        "Neighborhood": "Hay Mabrouka",
+        "City": "Settat",
+        "Lat": "32.9974165",
+        "Lon": "-7.6152106"
+      },
+      {
+        "Neighborhood": "Hay Mania",
+        "City": "Settat",
+        "Lat": "33.0030219",
+        "Lon": "-7.6091124"
+      },
+      {
+        "Neighborhood": "Hay Mimouna",
+        "City": "Settat",
+        "Lat": "33.0050664",
+        "Lon": "-7.6279648"
+      },
+      {
+        "Neighborhood": "Hay Salam",
+        "City": "Settat",
+        "Lat": "32.9991058",
+        "Lon": "-7.6335427"
+      },
+      {
+        "Neighborhood": "Hay Sidi Abdelkarim",
+        "City": "Settat",
+        "Lat": "32.9978257",
+        "Lon": "-7.6064292"
+      },
+      {
+        "Neighborhood": "Les Abattoires",
+        "City": "Settat",
+        "Lat": "33.0106493",
+        "Lon": "-7.6244868"
+      },
+      {
+        "Neighborhood": "Smaala",
+        "City": "Settat",
+        "Lat": "32.9986905",
+        "Lon": "-7.6214409"
+      },
+      {
+        "Neighborhood": "Zone Industrielle De Settat",
+        "City": "Settat",
+        "Lat": "33.2458978",
+        "Lon": "-7.58982014226631"
+      }
+    ]
+  },
+  {
+    "City": "Skhirate",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Ain Hayat",
+        "City": "Skhirate",
+        "Lat": "33.8574282",
+        "Lon": "-7.028777"
+      },
+      {
+        "Neighborhood": "Al Bassatine",
+        "City": "Skhirate",
+        "Lat": "33.8380871",
+        "Lon": "-7.0572376"
+      },
+      {
+        "Neighborhood": "Annour",
+        "City": "Skhirate",
+        "Lat": "33.8443302",
+        "Lon": "-7.0362838"
+      },
+      {
+        "Neighborhood": "El Fath",
+        "City": "Skhirate",
+        "Lat": "33.833427400000005",
+        "Lon": "-7.054799783136916"
+      },
+      {
+        "Neighborhood": "Jawharat Skhirate",
+        "City": "Skhirate",
+        "Lat": "33.8299291",
+        "Lon": "-7.0781534"
+      },
+      {
+        "Neighborhood": "Palais Royal",
+        "City": "Skhirate",
+        "Lat": "33.8706357",
+        "Lon": "-7.042869879950066"
+      },
+      {
+        "Neighborhood": "Plage De Skhirate",
+        "City": "Skhirate",
+        "Lat": "33.869783049999995",
+        "Lon": "-7.056585621577567"
+      },
+      {
+        "Neighborhood": "Ryad Skhirate",
+        "City": "Skhirate",
+        "Lat": "33.9243496",
+        "Lon": "-6.933598503313252"
+      },
+      {
+        "Neighborhood": "Zone Industrielle",
+        "City": "Skhirate",
+        "Lat": "33.93723755",
+        "Lon": "-6.90126564141732"
+      }
+    ]
+  },
+  {
+    "City": "Soualem",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Al Indimaj",
+        "City": "Soualem",
+        "Lat": "33.4192612",
+        "Lon": "-7.83336155335347"
+      },
+      {
+        "Neighborhood": "Jardins Sahel",
+        "City": "Soualem",
+        "Lat": "33.4062432",
+        "Lon": "-7.8523711"
+      }
+    ]
+  },
+  {
+    "City": "Taghazout-Aourir",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Taghazout",
+        "City": "Taghazout-Aourir",
+        "Lat": "30.53214165",
+        "Lon": "-9.696901945731135"
+      },
+      {
+        "Neighborhood": "Taghazout Bay",
+        "City": "Taghazout-Aourir",
+        "Lat": "30.524152649999998",
+        "Lon": "-9.689134444845779"
+      }
+    ]
+  },
+  {
+    "City": "Tahannaout",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Bou Ouzgar",
+        "City": "Tahannaout",
+        "Lat": "31.3726212",
+        "Lon": "-7.9511307"
+      },
+      {
+        "Neighborhood": "Douar El Bared",
+        "City": "Tahannaout",
+        "Lat": "31.3795935",
+        "Lon": "-7.9428946"
+      },
+      {
+        "Neighborhood": "Le Jardin Des Roses",
+        "City": "Tahannaout",
+        "Lat": "31.3868668",
+        "Lon": "-7.952223884286804"
+      },
+      {
+        "Neighborhood": "Zit Al Oulja",
+        "City": "Tahannaout",
+        "Lat": "31.3678842",
+        "Lon": "-7.9441257"
+      }
+    ]
+  },
+  {
+    "City": "Tanger",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Aazib Abakkiwe",
+        "City": "Tanger",
+        "Lat": "35.7287726",
+        "Lon": "-5.7700432"
+      },
+      {
+        "Neighborhood": "Achakkar",
+        "City": "Tanger",
+        "Lat": "35.7667357",
+        "Lon": "-5.928272"
+      },
+      {
+        "Neighborhood": "Aeroport Tanger Ibn Batouta",
+        "City": "Tanger",
+        "Lat": "35.7269724",
+        "Lon": "-5.9109302"
+      },
+      {
+        "Neighborhood": "Ahammar",
+        "City": "Tanger",
+        "Lat": "35.7485343",
+        "Lon": "-5.8802819"
+      },
+      {
+        "Neighborhood": "Ahlan",
+        "City": "Tanger",
+        "Lat": "35.7422614",
+        "Lon": "-5.8376664"
+      },
+      {
+        "Neighborhood": "Al Amal",
+        "City": "Tanger",
+        "Lat": "35.7622384",
+        "Lon": "-5.8194224"
+      },
+      {
+        "Neighborhood": "Al Khair",
+        "City": "Tanger",
+        "Lat": "35.74563015",
+        "Lon": "-5.823953046721127"
+      },
+      {
+        "Neighborhood": "Al Manar",
+        "City": "Tanger",
+        "Lat": "35.75959",
+        "Lon": "-5.8495551"
+      },
+      {
+        "Neighborhood": "Al Ouahda",
+        "City": "Tanger",
+        "Lat": "34.619766999999996",
+        "Lon": "-5.302855658898209"
+      },
+      {
+        "Neighborhood": "Aouama Gharbia",
+        "City": "Tanger",
+        "Lat": "35.7261824",
+        "Lon": "-5.8038898"
+      },
+      {
+        "Neighborhood": "Bassatine",
+        "City": "Tanger",
+        "Lat": "35.7698558",
+        "Lon": "-5.8311127"
+      },
+      {
+        "Neighborhood": "Ben Dibane",
+        "City": "Tanger",
+        "Lat": "35.7593671",
+        "Lon": "-5.8261176"
+      },
+      {
+        "Neighborhood": "Benkirane",
+        "City": "Tanger",
+        "Lat": "35.754196",
+        "Lon": "-5.789587773830252"
+      },
+      {
+        "Neighborhood": "Bni Ouriaghel",
+        "City": "Tanger",
+        "Lat": "35.7459656",
+        "Lon": "-5.82498"
+      },
+      {
+        "Neighborhood": "Bni Said",
+        "City": "Tanger",
+        "Lat": "35.4205943",
+        "Lon": "-5.172401134312382"
+      },
+      {
+        "Neighborhood": "Boubana",
+        "City": "Tanger",
+        "Lat": "35.77601126702042",
+        "Lon": "-5.859262501410893"
+      },
+      {
+        "Neighborhood": "Boughaz",
+        "City": "Tanger",
+        "Lat": "35.7840764",
+        "Lon": "-5.8086915"
+      },
+      {
+        "Neighborhood": "Bouhout 1",
+        "City": "Tanger",
+        "Lat": "35.75467235121787",
+        "Lon": "-5.796091958843209"
+      },
+      {
+        "Neighborhood": "Bouhout 2",
+        "City": "Tanger",
+        "Lat": "35.75467235121787",
+        "Lon": "-5.796091958843209"
+      },
+      {
+        "Neighborhood": "Boukhalef",
+        "City": "Tanger",
+        "Lat": "35.7337667",
+        "Lon": "-5.8831334"
+      },
+      {
+        "Neighborhood": "Branes 1",
+        "City": "Tanger",
+        "Lat": "35.7586539",
+        "Lon": "-5.8329331"
+      },
+      {
+        "Neighborhood": "Branes 2",
+        "City": "Tanger",
+        "Lat": "35.7614251",
+        "Lon": "-5.8360408"
+      },
+      {
+        "Neighborhood": "Branes Kdima",
+        "City": "Tanger",
+        "Lat": "35.7470171",
+        "Lon": "-5.8673859"
+      },
+      {
+        "Neighborhood": "California",
+        "City": "Tanger",
+        "Lat": "35.7838623",
+        "Lon": "-5.8086537"
+      },
+      {
+        "Neighborhood": "Cap Spartel",
+        "City": "Tanger",
+        "Lat": "35.7915279",
+        "Lon": "-5.9256665"
+      },
+      {
+        "Neighborhood": "Casabarata",
+        "City": "Tanger",
+        "Lat": "35.7646237",
+        "Lon": "-5.823807"
+      },
+      {
+        "Neighborhood": "Castilla",
+        "City": "Tanger",
+        "Lat": "35.76740745",
+        "Lon": "-5.814755342093986"
+      },
+      {
+        "Neighborhood": "Charf",
+        "City": "Tanger",
+        "Lat": "35.7718355",
+        "Lon": "-5.7932623"
+      },
+      {
+        "Neighborhood": "Chorouk",
+        "City": "Tanger",
+        "Lat": "35.7838794",
+        "Lon": "-5.8134768"
+      },
+      {
+        "Neighborhood": "Dchar El Aouama",
+        "City": "Tanger",
+        "Lat": "35.721934",
+        "Lon": "-5.7948032"
+      },
+      {
+        "Neighborhood": "Dradeb",
+        "City": "Tanger",
+        "Lat": "35.7864758",
+        "Lon": "-5.8307998"
+      },
+      {
+        "Neighborhood": "El Hafa",
+        "City": "Tanger",
+        "Lat": "35.8573552",
+        "Lon": "-5.3505552"
+      },
+      {
+        "Neighborhood": "El Hajriyine",
+        "City": "Tanger",
+        "Lat": "35.7131197",
+        "Lon": "-5.9395909"
+      },
+      {
+        "Neighborhood": "El Khair 2",
+        "City": "Tanger",
+        "Lat": "34.9436275",
+        "Lon": "-5.6571942"
+      },
+      {
+        "Neighborhood": "El Mers",
+        "City": "Tanger",
+        "Lat": "35.7357819",
+        "Lon": "-5.819550449217719"
+      },
+      {
+        "Neighborhood": "Essaada",
+        "City": "Tanger",
+        "Lat": "35.57406563611563",
+        "Lon": "-5.390086085782061"
+      },
+      {
+        "Neighborhood": "Essalam 1",
+        "City": "Tanger",
+        "Lat": "35.7361142",
+        "Lon": "-5.8782858"
+      },
+      {
+        "Neighborhood": "Ezzahara",
+        "City": "Tanger",
+        "Lat": "35.8354407",
+        "Lon": "-5.572907"
+      },
+      {
+        "Neighborhood": "Ganboria",
+        "City": "Tanger",
+        "Lat": "35.7110376",
+        "Lon": "-5.8104954"
+      },
+      {
+        "Neighborhood": "Gourziana",
+        "City": "Tanger",
+        "Lat": "35.742325",
+        "Lon": "-5.8127852"
+      },
+      {
+        "Neighborhood": "Gueznaia",
+        "City": "Tanger",
+        "Lat": "35.703352",
+        "Lon": "-5.887293"
+      },
+      {
+        "Neighborhood": "Haddad",
+        "City": "Tanger",
+        "Lat": "35.7384367",
+        "Lon": "-5.8050053"
+      },
+      {
+        "Neighborhood": "Haj Mokhtar",
+        "City": "Tanger",
+        "Lat": "35.16947143458939",
+        "Lon": "-5.260617194109804"
+      },
+      {
+        "Neighborhood": "Hamza",
+        "City": "Tanger",
+        "Lat": "35.7482557",
+        "Lon": "-5.8017203"
+      },
+      {
+        "Neighborhood": "Harrarine",
+        "City": "Tanger",
+        "Lat": "35.7237069",
+        "Lon": "-5.8348307"
+      },
+      {
+        "Neighborhood": "Iberia",
+        "City": "Tanger",
+        "Lat": "35.7825706",
+        "Lon": "-5.8208983"
+      },
+      {
+        "Neighborhood": "Ibn Khaldoun",
+        "City": "Tanger",
+        "Lat": "35.1919126",
+        "Lon": "-6.153806"
+      },
+      {
+        "Neighborhood": "Jamila",
+        "City": "Tanger",
+        "Lat": "35.7728517",
+        "Lon": "-5.8140647"
+      },
+      {
+        "Neighborhood": "Jirari",
+        "City": "Tanger",
+        "Lat": "35.7509384",
+        "Lon": "-5.8058187"
+      },
+      {
+        "Neighborhood": "Khandeq El Ward",
+        "City": "Tanger",
+        "Lat": "35.817151",
+        "Lon": "-5.6748677"
+      },
+      {
+        "Neighborhood": "La Nouvelle Ville Ibn Batouta",
+        "City": "Tanger",
+        "Lat": "35.7033186",
+        "Lon": "-5.9359797"
+      },
+      {
+        "Neighborhood": "Lalla Chafia",
+        "City": "Tanger",
+        "Lat": "35.7714855",
+        "Lon": "-5.8172455"
+      },
+      {
+        "Neighborhood": "Lkharba",
+        "City": "Tanger",
+        "Lat": "35.752269299999995",
+        "Lon": "-5.847020072956011"
+      },
+      {
+        "Neighborhood": "Luxus",
+        "City": "Tanger",
+        "Lat": "35.1992638",
+        "Lon": "-6.148926588823528"
+      },
+      {
+        "Neighborhood": "M'Sallah",
+        "City": "Tanger",
+        "Lat": "35.7743237",
+        "Lon": "-5.8175644"
+      },
+      {
+        "Neighborhood": "Mabrouka 3",
+        "City": "Tanger",
+        "Lat": "35.58344179522306",
+        "Lon": "-5.3550510145540455"
+      },
+      {
+        "Neighborhood": "Malabata",
+        "City": "Tanger",
+        "Lat": "35.77855375",
+        "Lon": "-5.776823270548272"
+      },
+      {
+        "Neighborhood": "Marina Bay",
+        "City": "Tanger",
+        "Lat": "35.7794665",
+        "Lon": "-5.8033747"
+      },
+      {
+        "Neighborhood": "Marshan",
+        "City": "Tanger",
+        "Lat": "35.7873434",
+        "Lon": "-5.8189344"
+      },
+      {
+        "Neighborhood": "Mediouna",
+        "City": "Tanger",
+        "Lat": "35.7718665",
+        "Lon": "-5.9089654"
+      },
+      {
+        "Neighborhood": "Menzah",
+        "City": "Tanger",
+        "Lat": "35.7809598",
+        "Lon": "-5.8159402"
+      },
+      {
+        "Neighborhood": "Mesnana",
+        "City": "Tanger",
+        "Lat": "35.7564316",
+        "Lon": "-5.858300021901263"
+      },
+      {
+        "Neighborhood": "Mghayer",
+        "City": "Tanger",
+        "Lat": "35.7508484",
+        "Lon": "-5.8897233"
+      },
+      {
+        "Neighborhood": "Mghogha",
+        "City": "Tanger",
+        "Lat": "35.7487231",
+        "Lon": "-5.7794545"
+      },
+      {
+        "Neighborhood": "Mghogha Sghira",
+        "City": "Tanger",
+        "Lat": "35.7523493",
+        "Lon": "-5.7857181"
+      },
+      {
+        "Neighborhood": "Mnar",
+        "City": "Tanger",
+        "Lat": "35.78677767282026",
+        "Lon": "-5.810207690601186"
+      },
+      {
+        "Neighborhood": "Mozart",
+        "City": "Tanger",
+        "Lat": "35.7742449",
+        "Lon": "-5.7979833"
+      },
+      {
+        "Neighborhood": "Mrabet 1",
+        "City": "Tanger",
+        "Lat": "35.7212333",
+        "Lon": "-5.8132418"
+      },
+      {
+        "Neighborhood": "Oulija",
+        "City": "Tanger",
+        "Lat": "35.7190872",
+        "Lon": "-5.794537"
+      },
+      {
+        "Neighborhood": "Plage Playa Tanger",
+        "City": "Tanger",
+        "Lat": "35.77855375",
+        "Lon": "-5.776823270548272"
+      },
+      {
+        "Neighborhood": "Playa Blanca",
+        "City": "Tanger",
+        "Lat": "35.8243291",
+        "Lon": "-5.7229328"
+      },
+      {
+        "Neighborhood": "Riad Assalam",
+        "City": "Tanger",
+        "Lat": "35.7348577",
+        "Lon": "-5.8636564"
+      },
+      {
+        "Neighborhood": "Rmilat",
+        "City": "Tanger",
+        "Lat": "35.7923001",
+        "Lon": "-5.8663711"
+      },
+      {
+        "Neighborhood": "Rouida",
+        "City": "Tanger",
+        "Lat": "34.794",
+        "Lon": "-5.567"
+      },
+      {
+        "Neighborhood": "Sania",
+        "City": "Tanger",
+        "Lat": "35.7787383",
+        "Lon": "-5.7551633"
+      },
+      {
+        "Neighborhood": "Souani",
+        "City": "Tanger",
+        "Lat": "35.7700104",
+        "Lon": "-5.8236111"
+      },
+      {
+        "Neighborhood": "Soussi",
+        "City": "Tanger",
+        "Lat": "35.7318356",
+        "Lon": "-5.8029618"
+      },
+      {
+        "Neighborhood": "Tanja Balia",
+        "City": "Tanger",
+        "Lat": "35.7643529",
+        "Lon": "-5.7599345"
+      },
+      {
+        "Neighborhood": "Zaidi",
+        "City": "Tanger",
+        "Lat": "35.75222903660489",
+        "Lon": "-5.7977071742850645"
+      },
+      {
+        "Neighborhood": "Zemmouri",
+        "City": "Tanger",
+        "Lat": "35.73924905",
+        "Lon": "-5.867096950518761"
+      },
+      {
+        "Neighborhood": "Ziaten",
+        "City": "Tanger",
+        "Lat": "35.7803723",
+        "Lon": "-5.8176934"
+      },
+      {
+        "Neighborhood": "Zone Franche De Tanger",
+        "City": "Tanger",
+        "Lat": "35.71777215",
+        "Lon": "-5.918725780986367"
+      },
+      {
+        "Neighborhood": "Zone Industrielle Mghogha",
+        "City": "Tanger",
+        "Lat": "35.74185185",
+        "Lon": "-5.7818353962873825"
+      },
+      {
+        "Neighborhood": "Zouitina",
+        "City": "Tanger",
+        "Lat": "35.732901",
+        "Lon": "-5.8116348"
+      }
+    ]
+  },
+  {
+    "City": "Taza",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Al Massira",
+        "City": "Taza",
+        "Lat": "34.2355992",
+        "Lon": "-3.9942654"
+      },
+      {
+        "Neighborhood": "Bin Jradi",
+        "City": "Taza",
+        "Lat": "34.2284445",
+        "Lon": "-4.0083011"
+      },
+      {
+        "Neighborhood": "Caserne Militaire",
+        "City": "Taza",
+        "Lat": "34.2311063",
+        "Lon": "-4.014891655987325"
+      },
+      {
+        "Neighborhood": "Douar Ayad",
+        "City": "Taza",
+        "Lat": "34.2274335",
+        "Lon": "-4.0230165"
+      },
+      {
+        "Neighborhood": "Haute Taza",
+        "City": "Taza",
+        "Lat": "34.205856350000005",
+        "Lon": "-4.017281926398179"
+      },
+      {
+        "Neighborhood": "Zone Industrielle De Taza",
+        "City": "Taza",
+        "Lat": "34.23882304999999",
+        "Lon": "-3.984349125922141"
+      }
+    ]
+  },
+  {
+    "City": "Tiznit",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "El Massira",
+        "City": "Tiznit",
+        "Lat": "29.7017145",
+        "Lon": "-9.7419456"
+      },
+      {
+        "Neighborhood": "Ennakhil",
+        "City": "Tiznit",
+        "Lat": "29.6832626",
+        "Lon": "-9.7223076"
+      },
+      {
+        "Neighborhood": "Quartier Industriel",
+        "City": "Tiznit",
+        "Lat": "29.6901942",
+        "Lon": "-9.7226313"
+      },
+      {
+        "Neighborhood": "Tamdroust",
+        "City": "Tiznit",
+        "Lat": "29.6794775",
+        "Lon": "-9.7537565"
+      }
+    ]
+  },
+  {
+    "City": "Témara",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "11 Janvier",
+        "City": "Témara",
+        "Lat": "33.91880365",
+        "Lon": "-6.911557479039699"
+      },
+      {
+        "Neighborhood": "Annasr",
+        "City": "Témara",
+        "Lat": "33.8995265",
+        "Lon": "-6.9306125"
+      },
+      {
+        "Neighborhood": "Centre Temara",
+        "City": "Témara",
+        "Lat": "33.9233543",
+        "Lon": "-6.9189906"
+      },
+      {
+        "Neighborhood": "Massira I",
+        "City": "Témara",
+        "Lat": "33.92655415",
+        "Lon": "-6.899946398631194"
+      },
+      {
+        "Neighborhood": "Oulad Mtaa",
+        "City": "Témara",
+        "Lat": "33.9409333",
+        "Lon": "-6.895546544437336"
+      },
+      {
+        "Neighborhood": "Skikina",
+        "City": "Témara",
+        "Lat": "33.9109617",
+        "Lon": "-6.9324572"
+      }
+    ]
+  },
+  {
+    "City": "Tétouan",
+    "Neighborhoods": [
+      {
+        "Neighborhood": "Ain Melloul",
+        "City": "Tétouan",
+        "Lat": "35.5841913",
+        "Lon": "-5.341259"
+      },
+      {
+        "Neighborhood": "Borj",
+        "City": "Tétouan",
+        "Lat": "35.57406104267477",
+        "Lon": "-5.374233949926378"
+      },
+      {
+        "Neighborhood": "Bouanan",
+        "City": "Tétouan",
+        "Lat": "35.5481239",
+        "Lon": "-5.3792031"
+      },
+      {
+        "Neighborhood": "Boujarah",
+        "City": "Tétouan",
+        "Lat": "35.5860958",
+        "Lon": "-5.358624"
+      },
+      {
+        "Neighborhood": "Boussafou",
+        "City": "Tétouan",
+        "Lat": "35.5936159",
+        "Lon": "-5.3460025"
+      },
+      {
+        "Neighborhood": "Coelma",
+        "City": "Tétouan",
+        "Lat": "35.5635596",
+        "Lon": "-5.3496247"
+      },
+      {
+        "Neighborhood": "Hamama",
+        "City": "Tétouan",
+        "Lat": "35.570399949999995",
+        "Lon": "-5.385552384579496"
+      },
+      {
+        "Neighborhood": "Hjar Laaroussi",
+        "City": "Tétouan",
+        "Lat": "35.6027551",
+        "Lon": "-5.3419232"
+      },
+      {
+        "Neighborhood": "Inara",
+        "City": "Tétouan",
+        "Lat": "35.5790837",
+        "Lon": "-5.3344173"
+      },
+      {
+        "Neighborhood": "Jamaa Mezouak",
+        "City": "Tétouan",
+        "Lat": "35.5739597",
+        "Lon": "-5.3962"
+      },
+      {
+        "Neighborhood": "Kariane",
+        "City": "Tétouan",
+        "Lat": "35.5894812",
+        "Lon": "-5.3633109"
+      },
+      {
+        "Neighborhood": "Laouzienne",
+        "City": "Tétouan",
+        "Lat": "35.5634207",
+        "Lon": "-5.4277271"
+      },
+      {
+        "Neighborhood": "Medina",
+        "City": "Tétouan",
+        "Lat": "35.5710625",
+        "Lon": "-5.3664659"
+      },
+      {
+        "Neighborhood": "Mellah",
+        "City": "Tétouan",
+        "Lat": "35.1681457",
+        "Lon": "-5.2612513"
+      },
+      {
+        "Neighborhood": "Mhannech",
+        "City": "Tétouan",
+        "Lat": "35.5646246",
+        "Lon": "-5.3569392"
+      },
+      {
+        "Neighborhood": "Safir",
+        "City": "Tétouan",
+        "Lat": "35.5816982",
+        "Lon": "-5.3519072"
+      },
+      {
+        "Neighborhood": "Saniat Rmel",
+        "City": "Tétouan",
+        "Lat": "35.572759500000004",
+        "Lon": "-5.348589100076589"
+      },
+      {
+        "Neighborhood": "Semsa",
+        "City": "Tétouan",
+        "Lat": "35.5927481",
+        "Lon": "-5.4069816"
+      },
+      {
+        "Neighborhood": "Sidi Talha",
+        "City": "Tétouan",
+        "Lat": "35.568923431450116",
+        "Lon": "-5.369398294744941"
+      },
+      {
+        "Neighborhood": "Souani",
+        "City": "Tétouan",
+        "Lat": "35.5999147",
+        "Lon": "-5.3260889"
+      },
+      {
+        "Neighborhood": "Taboula",
+        "City": "Tétouan",
+        "Lat": "35.5685697",
+        "Lon": "-5.4013725"
+      },
+      {
+        "Neighborhood": "Tamouda",
+        "City": "Tétouan",
+        "Lat": "35.56385731332783",
+        "Lon": "-5.4124152034773445"
+      },
+      {
+        "Neighborhood": "Tekniya",
+        "City": "Tétouan",
+        "Lat": "35.5754564",
+        "Lon": "-5.349432"
+      },
+      {
+        "Neighborhood": "Torreta",
+        "City": "Tétouan",
+        "Lat": "35.569565",
+        "Lon": "-5.4204344"
+      },
+      {
+        "Neighborhood": "Touabel",
+        "City": "Tétouan",
+        "Lat": "35.5806121",
+        "Lon": "-5.345647"
+      },
+      {
+        "Neighborhood": "Touilaa",
+        "City": "Tétouan",
+        "Lat": "35.588024",
+        "Lon": "-5.3505876"
+      },
+      {
+        "Neighborhood": "Wikaya",
+        "City": "Tétouan",
+        "Lat": "35.5553125",
+        "Lon": "-5.4012687"
+      },
+      {
+        "Neighborhood": "Wilaya",
+        "City": "Tétouan",
+        "Lat": "35.5889144",
+        "Lon": "-5.3393867"
+      },
+      {
+        "Neighborhood": "Zone Industrielle Martil",
+        "City": "Tétouan",
+        "Lat": "35.6010274",
+        "Lon": "-5.3047759"
+      }
+    ]
+  }
+]
